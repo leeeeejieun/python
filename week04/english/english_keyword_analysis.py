@@ -85,3 +85,24 @@ plt.figure(figsize=(8, 8))  # 워드클라우드를 시각화할 그래프 크�
 plt.imshow(cloud)  # 워드클라우드를 이미지로 표시
 plt.axis('off')    # 축을 표시하지 않음
 plt.show()  # 워드클라우드 화면에 표시
+
+
+# 검색어로 사용한 'big'괴 'data'항목 제거
+del word_count['big']
+del word_count['data']
+
+plt.figure(figsize=(12,5))  # 그래프 크기 설정
+plt.xlabel('word')   # x축 레이블을 'word'로 설정
+plt.ylabel('count')  # y축 레이블을 'count'로 설정
+plt.grid(True)  # 그래프에 그리드 추가
+
+# 'word_count'에서 값을 기준으로 내림차순으로 정렬한 키 목록을 가져오기
+sorted_keys = sorted(word_count, key=word_count.get, reverse=True)
+# 'word_count'에서 값(빈도수)을 기준으로 내림차순으로 정렬한 값 목록을 가져오기
+sorted_values = sorted(word_count.values(), reverse=True)
+
+# x축은 단어의 인덱스, y축은 해당 단어의 빈도수인 막대 그래프 그리기
+plt.bar(range(len(word_count)), sorted_values, align='center')
+# x축 눈금은 상위 50개 단어를 순서대로 사용하고 85도 회전시킴
+plt.xticks(range(len(word_count)), sorted_keys, rotation=85)
+plt.show()
