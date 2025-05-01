@@ -1,0 +1,969 @@
+Unnamed: 0,번호,제목,저자,출판사,출판일
+,1,"BigData: Issues, Challenges, Technologies and Methods","Adam, Khalid; Fakharaldien, Mohammed Adam Ibrahim; Zain, Jasni Mohamed; Abdul Majid, Mazlina; Noraziah, Ahmad",Springer,2013
+,2,Effective BigData-Space Service Selection over Trust and Heterogeneous QoS Preferences,"Wang, H.; Yu, C.; Wang, L.; Yu, Q.",Institute of Electrical & Electronics Engineers,2018
+,3,Tele-electrocardiography and bigdata: The CODE (Clinical Outcomes in Digital Electrocardiography) study,"Ribeiro, Antonio Luiz P.; Paixão, Gabriela M.M.; Gomes, Paulo R.; Ribeiro, Manoel Horta; Ribeiro, Antônio H.; Canazart, Jéssica A.; Oliveira, Derick M.; Ferreira, Milton P.; Lima, Emilly M.; Moraes, Jermana Lopes de; Castro, Nathalia; Ribeiro, Leonardo B.","Elsevier Science B.V., Amsterdam",2019
+,4,Are Today's SHM Procedures Suitable for Tomorrow's BIGDATA?,"Matarazzo,  Thomas J.; Shahidi,  S. Golnaz; Chang,  Minwoo; Pakzad,  Shamim N.","Curran Associates, Inc.",2015
+,5,High-frequency forecasting from mobile devices' bigdata: an application to tourism destinations' crowdedness,"Ramos, Vicente; Yamaka, Woraphon; Alorda, Bartomeu; Sriboonchitta, Songsak",Emerald Group Publishing Limited,2021
+,6,A novel process model for developing a scalable room-level energy benchmark using real-time bigdata: Focused on identifying representative energy usage patterns,"Lee, Junsoo","Elsevier Science B.V., Amsterdam.",2022
+,7,Bigdata analytics identifies metabolic inhibitors and promoters for productivity improvement and optimization of monoclonal antibody (mAb) production process,"Morris, Caitlin",Springer Nature,2020
+,8,BigData Collected Using GPS to Measure and Study the Battery Consumption on of Mobile Devices,Jin-Tae Park; Hyun-Seo Hwang; Il-Young Moon,International Information Institute,2014
+,9,"Bigdata fog based cyber physical system for classifying, identifying and prevention of SARS disease.","Raghav, R.S.; Dhavachelvan, P.; Vijayakumar, V.; Subramaniyaswamy, V.; Abawajy, Jemal; Yang, Longzhi. ","JOHN WILEY & SONS, INC",2019
+,10,BigData based on a Combination of GPS and Movement Pattern Analysis of Students,Jin-Tae Park; Hee-Soo Kang; Jun-Soo Yun; Il-Young Moon,International Information Institute,2014
+,11,Bigdata logs analysis based on seq2seq networks for cognitive Internet of Things,"Wu, Pin; Lu, Zhihui; Zhou, Quan; Lei, Zhidan; Li, Xiaoqiang; Qiu, Meikang; Hung, Patrick C.K.","Elsevier Science B.V., Amsterdam.",2019
+,12,Bigdata Analytics on Diabetic Retinopathy Study (DRS) on Real-time Data Set Identifying Survival Time and Length of Stay,"Sujatha, V.","Elsevier Science B.V., Amsterdam",2016
+,13,"BiDArch: BigData Architect, Generator of Big Data Solution Architectures","Sosa,  Julio; Jiménez-Guarín,  Claudia",Springer,2017
+,14,Clusterix-Like BigData DBMS,"Raikhlin, Vadim A.",Springer Nature,2020
+,15,Real-time BigData and Predictive Analytical Architecture for healthcare application,"Chauhan, Vikas; Gaur, Raghvendra; Tiwari, Aruna; Shukla, Anupam",Springer Nature,2019
+,16,NSF BIGDATA PI Meeting — Domain-Specific Research Directions and Data Sets,"Singh, Lisa; Deshpande, Amol; Zhou, Wenchao; Banerjee, Arindam; Bowers, Alex; Friedler, Sorelle; Jagadish, H. V.; Karypis, George; Obradovic, Zoran; Vullikanti, Anil",Association for Computing Machinery; 1999,2018
+,17,Orchestrating BigData Analysis Workflows,"Ranjan, R.; Garg, S.; Khoskbar, A. R.; Solaiman, E.; James, P.; Georgakopoulos, D.",IEEE,2017
+,18,A Two-Directional BigData Sorting Architecture on FPGAs,"Lai, Bo-Cheng; Chen, Chun-Yen; Hsin, Yi-Da; Lin, Bo-Yen",IEEE Computer Society,2020
+,19,2PBDC: privacy-preserving bigdata collection in cloud environment,"Srinivas, Jangirala",Springer Nature,2020
+,20,Prologue – BigData and DSS in agriculture,"Cancela, Héctor; Higgins, Andrew; Pagès-Bernaus, Adela; Plà-Aragonès, Lluis Miquel","Elsevier Science B.V., Amsterdam.",2019
+,21,Call for Papers_Bigdata-call-2016-final-1,unknown,"Elsevier Science B.V., Amsterdam",2016
+,22,AphasiaBank as BigData,"MacWhinney, Brian; Fromm, Davida",Thieme-Stratton,2016
+,23,Optimizing Leisure Travel: Is BigData Ready to Improve the Joint Leisure Activities Efficiency?,"Gkiotsalitis,  K.; Stathopoulos,  A.",Springer.,2014
+,24,Human activity pattern in bigdata for healthcare application,S. Durai; M. Viswanathan; C. S. Kumari; S. Florence,American Scientific Publishers,2018
+,25,Semantic Data Profiling for Bigdata,"Salem,  Aïcha Ben; Boufares,  Faouzi; Correia,  Sebastiao",International Society for Computers and Their Applications,2015
+,26,Indexing in Multi-Formatted BigData,Wooyung Lee; Jeong-Jin Kang; Muhammad Shahid Ansari,International Information Institute,2014
+,27,BigCache: a cache-based BigData management in mobile networks,Kshama Raichura ; Nilesh Padhariya,Interscience Enterprises,2017
+,28,NoSQL: Future of BigData Analytics Characteristics and Comparison with RDBMS,"Arshad, Muhammad",Springer Nature,2023
+,29,An efficient gene bigdata analysis using machine learning algorithms,"Wang, Ge",Springer Nature,2020
+,30,Design and Implementation of BigData Visualization System Based on Meta DB Automatic Mapping Algorithm,Weon-Jin Cho; Jae-Sung Shim; Seok-Cheon Park,International Information Institute,2016
+,31,Current Challenges with BIGDATA Analytics in Structural Health Monitoring,"Gulgec, Nur Sila; Shahidi, Golnaz S.; Matarazzo, Thomas J.; Pakzad, Shamim N.","Curran Associates, Inc",2017
+,32,"Scenario analysis, from BigData to black swan","Batrouni, Marwan; Bertaux, Aurélie; Nicolle, Christophe","Elsevier Science B. V., Amsterdam",2018
+,33,EP-1719 Automated data processing and BigData in radiation therapy,"Schmidt, O.; Ballmann, N.; Bert, C.; Fietkau, R.","Elsevier Science B.V., Amsterdam.",2019
+,34,Fundamental Survey of Map Reduce in Bigdata with Hadoop Environment,"Dhamecha, Maulik; Patalia, Tejas",Springer,2018
+,35,Student commentary using MAD and BigData,"Madhuravani, B.",AIP American Institute of Physics,2023
+,36,Performance Evaluation of Unstructured PBRA for Bigdata with Cassandra and MongoDB in Cloud,"Gupta, Sangeeta",IGI Publishing,2018
+,37,Data Summary Techniques based on Mapreduce in Bigdata,Jeong-Joon Kim,International Information Institute,2018
+,38,Knowledge Digest Engine for Personal Bigdata Analysis,"Kim, Y.; Moon, J.; Lee, H.-J.; Bae, C.-S.",Dordrecht; Springer,2012
+,39,A novel approach for privacy preservation in bigdata using data perturbation in nested clustering in Apache Spark,R. Hariharan; S. S. Raj; R. Vimala,American Scientific Publishers,2018
+,40,IFHDS: Intelligent Framework for Securing Healthcare BigData,"Essa, Youssef M.; Hemdan, Ezz El-Din; El-Mahalawy, Ahmed; Attiya, Gamal; El-Sayed, Ayman",Springer Nature,2019
+,41,151 – Using Deeplearning and Genetic Bigdata to Predict Crohn's Disease,"Li, Dalin; Haritunians, Talin; Mengesha, Emebet; Targan, Stephan R.; McGovern, Dermot",ELSEVIER SCIENCE B.V. AMSTERDAM,2019
+,42,A MODIFIED KEY PARTITIONING FOR BIGDATA USING MAPREDUCE IN HADOOP,"Palanisamy,  Balasubramanie; Ekambaram,  Gothai",Science Publications,2015
+,43,Platform Independent Workflow Mechanism for Bigdata Analytics,"Ku,  Tai-Yeon; Won,  Hee-Sun; Choi,  Hoon",Springer,2016
+,44,Urban carbon mapping with spatial BigData,"Yamagata, Yoshiki; Murakami, Daisuke; Yoshida, Takahiro","Elsevier Science B.V., Amsterdam",2017
+,45,2015 IEEE Service Congress and IEEE BigData Congress House Advertisement,unknown,IEEE INSTITUTE OF ELECTRICAL AND ELECTRONICS,2014
+,46,Miscegenation of scalable and DEP3K performance evaluation of nosql-cassandra for bigdata applications deployed in cloud,"Gupta, Sangeeta; Narsimha, G.",Inderscience,2018
+,47,Hybrid Multi-Modal Deep Learning using Collaborative Concat Layer in Health Bigdata,"Kim, Joo-Chang; Chung, Kyungyong",IEEE,2020
+,48,A Scalable Product Recommendations Using Collaborative Filtering in Hadoop for Bigdata,"Riyaz, P.A.; Varghese, Surekha Mariam","Elsevier Science B.V., Amsterdam",2016
+,49,Secure NoSQL for the Social Networking and E-Commerce Based Bigdata Applications Deployed in Cloud,"Gupta, SangeetaGugulothu, Narsimha",IGI Publishing,2018
+,50,A New Service for Customer Care Based on the TrentoRise BigData Platform,"Ramazzina, S.; Ballari, C.L.; Somenzi, D.",unknown,2013
+,51,Incentive Compatible E-mandi with Large Scale Consumer Producer Matching Using BigData Based on Gale-shapely Algorithm for Perishable Commodities SCM,"Vinu Kiran, S.","Elsevier Science B.V., Amsterdam",2016
+,52,A Multi-step Nonlinear Dimension-reduction Approach with Applications to Bigdata,"Krishnan, R.","Elsevier Science B.V., Amsterdam",2018
+,53,Personalized Recommendation System for Efficient Integrated Cognitive Rehabilitation Training Based on Bigdata,"Kim, Jeong Joon; Kim, Yong-Jun; Lee, Hyeok-Min; Lee, Sang-Ho; Chung, Sung-Taek",Springer,2018
+,54,"Case-fatality, disability and recurrence rates after first-ever stroke: A study from bigdata observatory platform for stroke of China","Tu, Wen-Jun; Chao, Bao-Hua; Ma, Lin; Yan, Feng; Cao, Lei; Qiu, Hancheng; Ji, Xun-Ming; Wang, Long-De","Elsevier Science B.V., Amsterdam.",2021
+,55,Direct Error Driven Learning for Deep Neural Networks with Applications to Bigdata,"Krishnan, R.","Elsevier Science B.V., Amsterdam",2018
+,56,Analysis of Bodily Fluids and Fomites in Transmission of Ebola Virus Using Bigdata,"Jemimah, C.","Elsevier Science B.V., Amsterdam",2016
+,57,Correction to: IFHDS: Intelligent Framework for Securing Healthcare BigData,"Essa, Youssef M.; Hemdan, Ezz El-Din; El-Mahalawy, Ahmed; Attiya, Gamal; El-Sayed, Ayman",Springer Nature,2019
+,58,A fast online learning algorithm for distributed mining of BigData,"Zhang, Yu;Sow, Daby;Turaga, DeepakSchaar, Mihaela van der",Association for Computing Machinery,2014
+,59,Analysis of Learner Timeout Behavior in Online Tests of a Bigdata Set Based on the OLAI Concept,"Le,  Huixiao; Jia,  Jiyou",Springer,2018
+,60,Guest editorial – Special issue on hardware assisted techniques for IoT and bigdata applications,"Mohanty, Saraju P.; Srivastava, Ashok; Hu, Shiyan; Ghosal, Prasun","Elsevier Science B.V., Amsterdam.",2017
+,61,Using arced axes in parallel coordinates geometry for high dimensional BigData visual analytics in cloud computing,"Huang, M. L.; Lu, L. F.; Zhang, X.",Springer Science + Business Media,2015
+,62,A scalable platform for investigating the space-specific features of the temporal energy usage pattern and saving potential with real-time bigdata,"Lee, Junsoo; Kim, Tae Wan; Lee, Chansik; Koo, Choongwan","Elsevier Science B.V., Amsterdam.",2021
+,63,Treatment and 1-Year Prognosis of Ischemic Stroke in China in 2018: A Hospital-Based Study From Bigdata Observatory Platform for Stroke of China,"Tu, Wen-Jun",American Heart Association; Lippincott Williams and Wilkins,2022
+,64,Truncated Physical Model for Dynamic Sensor Networks with Applications in High-Resolution Mobile Sensing and BIGDATA,"Matarazzo,  Thomas J.; Pakzad,  Shamim N.",ASCE AMERICAN SOCIETY OF CIVIL ENGINEERS,2016
+,65,A Prototypical Reference Application of an IVIS4BigData Infrastructure supporting Anomaly Detection on Car-to-Cloud Data,"Bornschlegl, Marco",Curran Associates,2018
+,66,Ballistic Transport for Periodic Jacobi Operators on Z^d (The Case Study for Childcare Service Demand Forecasting Using Bigdata Reference Analysis Model),"Fillman, Jake",Birkhauser,2021
+,67,Relaxation of Nitric Oxide in Mixtures with Argon (A Study on the Changes of the Restaurant Industry Before and Afhter COVID-19 Using BigData),"Kneser,H. O.; Bauer,H.‐J.; Kosche,H.",Acoustical Society of America,1967
+,68,"Catching the Disc: Panopticism, Surveillance and Punishment as a Pedagogical Tool in the Acquisition of Colonial Languages in Post-Colonial Schooling (Spatial Visualization of Food Safety Risk Using Environmental Big Data)","Rotich, Willy K.",Taylor & Francis,2021
+,1,Call for Special Issue Papers: Soft Computing Models for Big Data and Internet of Things,"Chilamkurti, Naveen; Paul, Anand; Kumar, Akshi",Mary Ann Leibert,2020
+,2,Atmospheric and ecosystem big data providing key contributions in reaching United Nations' Sustainable Development Goals,"Kulmala, Markku; Lintunen, Anna; Ylivinkka, Ilona; Mukkala, Janne; Rantanen, Rosa; Kujansuu, Joni; Petäjä, Tuukka; Lappalainen, Hanna K.",John Wiley & Sons Ltd,2021
+,3,Earth observation and geospatial big data management and engagement of stakeholders in Hungary to support the SDGs,"Mihály, Szabolcs; Remetey-Fülöpp, Gábor; Kristóf, Dániel; Czinkóczky, Anna; Palya, Tamás; Pásztor, László; Rudan, Pál; Szabó, György; Zentai, László",John Wiley & Sons Ltd,2021
+,4,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,5,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,6,A Novel Big Data Approach for Record and Represent Compliance in the Covid-19 Era,"Giacalone, M.","Elsevier Science B.V., Amsterdam",2022
+,7,Big Data 2.0: Cataclysm or Catalyst?,unknown,Mary Ann Leibert,2014
+,8,Curating Big Data Made Simple: Perspectives from Scientific Communities,unknown,Mary Ann Leibert,2014
+,9,The Uses of Big Data in Cities,unknown,Mary Ann Leibert,2014
+,10,Towards quantifying psychiatric diagnosis using machine learning algorithms and big fMRI data,"Saeed, Fahad",Springer Nature,2018
+,11,STGI：a spatio-temporal grid index model for marine big data,"Qu, Tengteng; Wang, Lizhe; Yu, Jian; Yan, Jining; Xu, Guilin; Li, Meng; Cheng, Chengqi; Hou, Kaihua; Chen, Bo",John Wiley & Sons Ltd,2020
+,12,Why Big Data = Big Deal,unknown,Mary Ann Leibert,2014
+,13,Optimizing Sentinel-2 image selection in a Big Data context,"Kempeneers, P.; Soille, P.",John Wiley & Sons Ltd,2017
+,14,Furthest-Pair-Based Binary Search Tree for Speeding Big Data Classification Using K-Nearest Neighbors,"Hassanat, A. B. A.",Mary Ann Leibert,2018
+,15,Big Data and Predictive Analytics in Health Care,unknown,Mary Ann Leibert,2014
+,16,Big Data for Social Good,unknown,Mary Ann Leibert,2015
+,17,Can Big Data Machines Analyze Stock Market Sentiment?,unknown,Mary Ann Leibert,2014
+,18,Big Data Literature Search,unknown,Mary Ann Leibert,2014
+,19,A Big Data Guide to Understanding Climate Change: The Case for Theory-Guided Data Science,unknown,Mary Ann Leibert,2014
+,20,Common Big Data Challenges and How to Overcome Them,unknown,Mary Ann Leibert,2014
+,21,TV Audience Measurement with Big Data,unknown,Mary Ann Leibert,2014
+,22,The U.S. Army Person-Event Data Environment: A MilitaryÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Civilian Big Data Enterprise,unknown,Mary Ann Leibert,2015
+,23,"Comparative study of big data of global adakites and mineralization-related granite in the Geza arc metallogenic belt, northwest Yunnan, Southwest China","Xuelong, Liu; Wenchang, Li; Qi, Zhang; Na, Zhang; Changzhen, Zhang; Ying, Luo; Shuaishuai, Wang; Fucheng, Yang; Jianhang, Chen; Zhenhuan, Li",John Wiley & Sons Ltd,2018
+,24,A new big data approach based on geoecological information-modeling system,"Varotsos, Costas A.; Krapivin, Vladimir F.",John Wiley & Sons Ltd,2017
+,25,Big data actionable intelligence architecture,"Ma, Tian J.",Springer Nature,2020
+,26,Exploring relationships between medical college rankings and performance with big data,"Rao, A.",Springer Nature,2019
+,27,Evaluating associative classification algorithms for Big Data,"Padillo, Francisco",Springer Nature,2019
+,28,Study on the use of different quality measures within a multi-objective evolutionary algorithm approach for emerging pattern mining in big data environments,"García-Vico, Ángel",Springer Nature,2019
+,29,Big Data for the Social Good: The Drought Early-Warning Experience Report,"Tamburri, Damian A.",unknown,2022
+,30,A GIS-based analytical framework for evaluating the effect of COVID-19 on the restaurant industry with big data,"Wang, Siqin",John Wiley & Sons Ltd,2023
+,31,Recent advance in earth observation big data for hydrology,"Chen, Lajiao; Wang, Lizhe",John Wiley & Sons Ltd,2018
+,32,Big Data architecture for intelligent maintenance: a focus on query processing and machine learning algorithms,"Lehmann, Claude",Springer Nature,2020
+,33,XDataExplorer: A Three-Stage Comprehensive Self-Tuning Tool for Big Data Platforms,"Guo, Qing","Elsevier Science B.V., Amsterdam",2022
+,34,New discrimination diagrams for basalts based on big data research,"Zhang, Qi; Sun, Weidong; Zhao, Yong; Yuan, Fanglin; Jiao, Shoutao; Chen, Wanfeng",John Wiley & Sons Ltd,2019
+,35,Big uncertain data of multiple sensors efficient processing with high order multi-hypothesis: an evidence theoretic approach,"Jafari, Hossein; Li, Xiangfang; Qian, Lijun; Aved, Alexander J.; Kroecker, Timothy S.",Inderscience,2018
+,36,A comparison on scalability for batch big data processing on Apache Spark and Apache Flink,"García-Gil, Diego; Ramírez-Gallego, Sergio; García, Salvador; Herrera, Francisco",Springer Nature,2017
+,37,Data behaviours model for Big Data visual analytics,"Zhang, Jinson; Huang, Mao Lin",Inderscience,2016
+,38,"Big Data, 3D Printing Technology, and Industry of the Future","Alabi, Micheal Omotayo",IGI Publising,2017
+,39,A Big Data Framework to Address Building Sum Insured Misestimation,"Roberts, Callum","Elsevier Science B.V., Amsterdam",2023
+,40,Does Medical School Training Relate to Practice? Evidence from Big Data,unknown,Mary Ann Leibert,2015
+,41,Big Data and the Rise of Machines in Financial Markets,unknown,Mary Ann Leibert,2014
+,42,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,43,Big Data As an Enabler of Primary Education,unknown,Mary Ann Leibert,2016
+,44,Big Data Analytics and Visualization in Traffic Monitoring,"Bachechi, Chiara","Elsevier Science B.V., Amsterdam",2022
+,45,Corrigendum to High Frequency Analysis of Macro News Releases on the Foreign Exchange Market: A Survey of Literature [Big Data Res. 2 (1) (2015) 33–48],"Li, Wei","Elsevier Science B.V., Amsterdam",2022
+,46,Unsupervised Tensor Mining for Big Data Practitioners,unknown,Mary Ann Leibert,2016
+,47,An Exercise in Exploring Big Data for Producing Reliable Statistical Information,unknown,Mary Ann Leibert,2016
+,48,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,49,Towards Efficient Energy Utilization Using Big Data Analytics in Smart Cities for Electricity Theft Detection,"Arif, Arooj","Elsevier Science B.V., Amsterdam",2022
+,50,Big data and analytics: a data management perspective in public administration,"Mittal, Prabhat",Inderscience,2020
+,51,Big Data in Forecasting Research: A Literature Review,"Tang, Ling","Elsevier Science B.V., Amsterdam",2022
+,52,Strength in Numbers: Using Big Data to Simplify Sentiment Classification,unknown,Mary Ann Leibert,2017
+,53,A Message from the Editor-in-Chief of Big Data,unknown,Mary Ann Leibert,2017
+,54,Research Dilemmas with Behavioral Big Data,unknown,Mary Ann Leibert,2017
+,55,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,56,Fine Clustering Analysis of Internet Financial Credit Investigation Based on Big Data,"Sun, Jingqi","Elsevier Science B.V., Amsterdam",2022
+,57,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,58,Correction to: Big Data 2016;4:60–66,unknown,Mary Ann Leibert,2016
+,59,Big Data on Robotics,unknown,Mary Ann Leibert,2016
+,60,Combining Human Computing and Machine Learning to Make Sense of Big (Aerial) Data for Disaster Response,unknown,Mary Ann Leibert,2016
+,61,"Interview with Dr. Silvio Carta, Author of the Book Big Data, Code and the Discrete City (Routledge 2019)","Carta, Silvio",Mary Ann Leibert,2019
+,62,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,63,Big data ensemble clinical prediction for healthcare data by using deep learning model,"Rallapalli, Sreekanth; Gondkar, R.R.",Inderscience,2018
+,64,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2019
+,65,Using Big Data to Understand the Human Condition: The Kavli Human Project,unknown,Mary Ann Leibert,2015
+,66,"Big Data, Little Data, and Care Coordination for Medicare Beneficiaries with Medigap Coverage",unknown,Mary Ann Leibert,2015
+,67,Labor Economists Get Their Microscope: Big Data and Labor Market Analysis,unknown,Mary Ann Leibert,2015
+,68,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2020
+,69,"Deep Learning on Big, Sparse, Behavioral Data","De Cnudde, Sofie; Ramon, Yanou; Martens, David; Provost, Foster",Mary Ann Leibert,2019
+,70,National Surveys of Population Health: Big Data Analytics for Mobile Health Monitors,unknown,Mary Ann Leibert,2015
+,71,SOOM: Sort-Based Optimizer for Big Data Multi-Query,"Sahal, Radhya; Khafagy, Mohammed H.; Omara, Fatma A.",Mary Ann Leibert,2020
+,72,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,73,Big Data in Healthcare: Opportunities and Challenges,unknown,Mary Ann Leibert,2015
+,74,Sorting big data by revealed preference with application to college ranking,"Hu, Xingwei",Springer Nature,2020
+,75,Analyzing Big Smart Metering Data Towards Differentiated User Services: A Sublinear Approach,"Pan, E.; Wang, D.; Han, Z.",unknown,2016
+,76,A big data analytics framework for border crossing transportation,"Wang, Haibo; Huo, Da; Xu, Yaquan",Inderscience,2017
+,77,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,78,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2014
+,79,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,80,"Predictive big data analytics for supply chain demand forecasting: methods, applications, and research opportunities","Seyedan, Mahya",Springer Nature,2020
+,81,Agile Big Data Analytics for Web-Based Systems: An Architecture-Centric Approach,"Chen, H.; Kazman, R.; Haziyev, S.",unknown,2016
+,82,A Big Data Application for Energy Consumption Management of Commercial Buildings,"Al Muhaysh, Sarah Abdullah;Al Salem, Thanaa Saad;Al Jaafari, Fatimah Abdullah;Hussain, Al Anoud Saleem Al ShaikhKhwaja, Amir Ali",IGI Publishing,2021
+,83,Clustering Big Spatiotemporal-Interval Data,"Shao, W.; Salim, F. D.; Song, A.; Bouguettaya, A.",unknown,2016
+,84,Leveraging Big Data analytics - case of Kenyan telecoms,"Moturi, Christopher A.; Karuga, Esther W.; Orwa, Daniel O.",Inderscience,2021
+,85,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2015
+,86,Scalable big data modelling,"Patel, Jayesh",Inderscience,2021
+,87,Improved big data stock index prediction using deep learning with CNN and GRU,"Eapen, Jithin; Verma, Abhishek; Bein, Doina",Inderscience,2021
+,88,Analyzing Bangkok city taxi ride: reforming fares for profit sustainability using big data driven model,"Phiboonbanakit, Thananut",Springer Nature,2021
+,89,Impact of rail transit station proximity to commercial property prices: utilizing big data in urban real estate,"Berawi, Mohammed Ali",Springer Nature,2020
+,90,Sleep stage classification using extreme learning machine and particle swarm optimization for healthcare big data,"Surantha, Nico",Springer Nature,2021
+,91,Correction to: Cooperative co‑evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,92,Predictors of outpatients' no-show: big data analytics using apache spark,"Daghistani, Tahani",Springer Nature,2020
+,93,Cooperative co-evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,94,A survey and analysis of intrusion detection models based on CSE-CIC-IDS2018 Big Data,"Leevy, Joffrey L.",Springer Nature,2020
+,95,CoPart: a context-based partitioning technique for big data,"Migliorini, Sara",Springer Nature,2021
+,96,Guest Editorial: Big Data Analytics and the Web,"Sheng, Q. Z.; Vasilakos, A. V.; Yu, Q.; Yao, L.",unknown,2015
+,97,Anomaly detection optimization using big data and deep learning to reduce false-positive,"Al Jallad, Khloud",Springer Nature,2020
+,98,Application of big data analytics and organizational performance: the mediating role of knowledge management practices,"Shabbir, Muhammad Qasim",Springer Nature,2020
+,99,Predictive analytics using big data for increased customer loyalty: Syriatel Telecom Company case study,"Wassouf, Wissam Nazeer",Springer Nature,2020
+,100,Mitigating Bias in Big Data for Transportation,"Griffin, Greg P.",Springer Nature,2020
+,1,Call for Special Issue Papers: Soft Computing Models for Big Data and Internet of Things,"Chilamkurti, Naveen; Paul, Anand; Kumar, Akshi",Mary Ann Leibert,2020
+,2,Atmospheric and ecosystem big data providing key contributions in reaching United Nations' Sustainable Development Goals,"Kulmala, Markku; Lintunen, Anna; Ylivinkka, Ilona; Mukkala, Janne; Rantanen, Rosa; Kujansuu, Joni; Petäjä, Tuukka; Lappalainen, Hanna K.",John Wiley & Sons Ltd,2021
+,3,Earth observation and geospatial big data management and engagement of stakeholders in Hungary to support the SDGs,"Mihály, Szabolcs; Remetey-Fülöpp, Gábor; Kristóf, Dániel; Czinkóczky, Anna; Palya, Tamás; Pásztor, László; Rudan, Pál; Szabó, György; Zentai, László",John Wiley & Sons Ltd,2021
+,4,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,5,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,6,A Novel Big Data Approach for Record and Represent Compliance in the Covid-19 Era,"Giacalone, M.","Elsevier Science B.V., Amsterdam",2022
+,7,Big Data 2.0: Cataclysm or Catalyst?,unknown,Mary Ann Leibert,2014
+,8,Curating Big Data Made Simple: Perspectives from Scientific Communities,unknown,Mary Ann Leibert,2014
+,9,The Uses of Big Data in Cities,unknown,Mary Ann Leibert,2014
+,10,Towards quantifying psychiatric diagnosis using machine learning algorithms and big fMRI data,"Saeed, Fahad",Springer Nature,2018
+,11,STGI：a spatio-temporal grid index model for marine big data,"Qu, Tengteng; Wang, Lizhe; Yu, Jian; Yan, Jining; Xu, Guilin; Li, Meng; Cheng, Chengqi; Hou, Kaihua; Chen, Bo",John Wiley & Sons Ltd,2020
+,12,Why Big Data = Big Deal,unknown,Mary Ann Leibert,2014
+,13,Optimizing Sentinel-2 image selection in a Big Data context,"Kempeneers, P.; Soille, P.",John Wiley & Sons Ltd,2017
+,14,Furthest-Pair-Based Binary Search Tree for Speeding Big Data Classification Using K-Nearest Neighbors,"Hassanat, A. B. A.",Mary Ann Leibert,2018
+,15,Big Data and Predictive Analytics in Health Care,unknown,Mary Ann Leibert,2014
+,16,Big Data for Social Good,unknown,Mary Ann Leibert,2015
+,17,Can Big Data Machines Analyze Stock Market Sentiment?,unknown,Mary Ann Leibert,2014
+,18,Big Data Literature Search,unknown,Mary Ann Leibert,2014
+,19,A Big Data Guide to Understanding Climate Change: The Case for Theory-Guided Data Science,unknown,Mary Ann Leibert,2014
+,20,Common Big Data Challenges and How to Overcome Them,unknown,Mary Ann Leibert,2014
+,21,TV Audience Measurement with Big Data,unknown,Mary Ann Leibert,2014
+,22,The U.S. Army Person-Event Data Environment: A MilitaryÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Civilian Big Data Enterprise,unknown,Mary Ann Leibert,2015
+,23,"Comparative study of big data of global adakites and mineralization-related granite in the Geza arc metallogenic belt, northwest Yunnan, Southwest China","Xuelong, Liu; Wenchang, Li; Qi, Zhang; Na, Zhang; Changzhen, Zhang; Ying, Luo; Shuaishuai, Wang; Fucheng, Yang; Jianhang, Chen; Zhenhuan, Li",John Wiley & Sons Ltd,2018
+,24,A new big data approach based on geoecological information-modeling system,"Varotsos, Costas A.; Krapivin, Vladimir F.",John Wiley & Sons Ltd,2017
+,25,Big data actionable intelligence architecture,"Ma, Tian J.",Springer Nature,2020
+,26,Exploring relationships between medical college rankings and performance with big data,"Rao, A.",Springer Nature,2019
+,27,Evaluating associative classification algorithms for Big Data,"Padillo, Francisco",Springer Nature,2019
+,28,Study on the use of different quality measures within a multi-objective evolutionary algorithm approach for emerging pattern mining in big data environments,"García-Vico, Ángel",Springer Nature,2019
+,29,Big Data for the Social Good: The Drought Early-Warning Experience Report,"Tamburri, Damian A.",unknown,2022
+,30,A GIS-based analytical framework for evaluating the effect of COVID-19 on the restaurant industry with big data,"Wang, Siqin",John Wiley & Sons Ltd,2023
+,31,Recent advance in earth observation big data for hydrology,"Chen, Lajiao; Wang, Lizhe",John Wiley & Sons Ltd,2018
+,32,Big Data architecture for intelligent maintenance: a focus on query processing and machine learning algorithms,"Lehmann, Claude",Springer Nature,2020
+,33,XDataExplorer: A Three-Stage Comprehensive Self-Tuning Tool for Big Data Platforms,"Guo, Qing","Elsevier Science B.V., Amsterdam",2022
+,34,New discrimination diagrams for basalts based on big data research,"Zhang, Qi; Sun, Weidong; Zhao, Yong; Yuan, Fanglin; Jiao, Shoutao; Chen, Wanfeng",John Wiley & Sons Ltd,2019
+,35,Big uncertain data of multiple sensors efficient processing with high order multi-hypothesis: an evidence theoretic approach,"Jafari, Hossein; Li, Xiangfang; Qian, Lijun; Aved, Alexander J.; Kroecker, Timothy S.",Inderscience,2018
+,36,A comparison on scalability for batch big data processing on Apache Spark and Apache Flink,"García-Gil, Diego; Ramírez-Gallego, Sergio; García, Salvador; Herrera, Francisco",Springer Nature,2017
+,37,Data behaviours model for Big Data visual analytics,"Zhang, Jinson; Huang, Mao Lin",Inderscience,2016
+,38,"Big Data, 3D Printing Technology, and Industry of the Future","Alabi, Micheal Omotayo",IGI Publising,2017
+,39,A Big Data Framework to Address Building Sum Insured Misestimation,"Roberts, Callum","Elsevier Science B.V., Amsterdam",2023
+,40,Does Medical School Training Relate to Practice? Evidence from Big Data,unknown,Mary Ann Leibert,2015
+,41,Big Data and the Rise of Machines in Financial Markets,unknown,Mary Ann Leibert,2014
+,42,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,43,Big Data As an Enabler of Primary Education,unknown,Mary Ann Leibert,2016
+,44,Big Data Analytics and Visualization in Traffic Monitoring,"Bachechi, Chiara","Elsevier Science B.V., Amsterdam",2022
+,45,Corrigendum to High Frequency Analysis of Macro News Releases on the Foreign Exchange Market: A Survey of Literature [Big Data Res. 2 (1) (2015) 33–48],"Li, Wei","Elsevier Science B.V., Amsterdam",2022
+,46,Unsupervised Tensor Mining for Big Data Practitioners,unknown,Mary Ann Leibert,2016
+,47,An Exercise in Exploring Big Data for Producing Reliable Statistical Information,unknown,Mary Ann Leibert,2016
+,48,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,49,Towards Efficient Energy Utilization Using Big Data Analytics in Smart Cities for Electricity Theft Detection,"Arif, Arooj","Elsevier Science B.V., Amsterdam",2022
+,50,Big data and analytics: a data management perspective in public administration,"Mittal, Prabhat",Inderscience,2020
+,51,Big Data in Forecasting Research: A Literature Review,"Tang, Ling","Elsevier Science B.V., Amsterdam",2022
+,52,Strength in Numbers: Using Big Data to Simplify Sentiment Classification,unknown,Mary Ann Leibert,2017
+,53,A Message from the Editor-in-Chief of Big Data,unknown,Mary Ann Leibert,2017
+,54,Research Dilemmas with Behavioral Big Data,unknown,Mary Ann Leibert,2017
+,55,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,56,Fine Clustering Analysis of Internet Financial Credit Investigation Based on Big Data,"Sun, Jingqi","Elsevier Science B.V., Amsterdam",2022
+,57,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,58,Correction to: Big Data 2016;4:60–66,unknown,Mary Ann Leibert,2016
+,59,Big Data on Robotics,unknown,Mary Ann Leibert,2016
+,60,Combining Human Computing and Machine Learning to Make Sense of Big (Aerial) Data for Disaster Response,unknown,Mary Ann Leibert,2016
+,61,"Interview with Dr. Silvio Carta, Author of the Book Big Data, Code and the Discrete City (Routledge 2019)","Carta, Silvio",Mary Ann Leibert,2019
+,62,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,63,Big data ensemble clinical prediction for healthcare data by using deep learning model,"Rallapalli, Sreekanth; Gondkar, R.R.",Inderscience,2018
+,64,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2019
+,65,Using Big Data to Understand the Human Condition: The Kavli Human Project,unknown,Mary Ann Leibert,2015
+,66,"Big Data, Little Data, and Care Coordination for Medicare Beneficiaries with Medigap Coverage",unknown,Mary Ann Leibert,2015
+,67,Labor Economists Get Their Microscope: Big Data and Labor Market Analysis,unknown,Mary Ann Leibert,2015
+,68,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2020
+,69,"Deep Learning on Big, Sparse, Behavioral Data","De Cnudde, Sofie; Ramon, Yanou; Martens, David; Provost, Foster",Mary Ann Leibert,2019
+,70,National Surveys of Population Health: Big Data Analytics for Mobile Health Monitors,unknown,Mary Ann Leibert,2015
+,71,SOOM: Sort-Based Optimizer for Big Data Multi-Query,"Sahal, Radhya; Khafagy, Mohammed H.; Omara, Fatma A.",Mary Ann Leibert,2020
+,72,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,73,Big Data in Healthcare: Opportunities and Challenges,unknown,Mary Ann Leibert,2015
+,74,Sorting big data by revealed preference with application to college ranking,"Hu, Xingwei",Springer Nature,2020
+,75,Analyzing Big Smart Metering Data Towards Differentiated User Services: A Sublinear Approach,"Pan, E.; Wang, D.; Han, Z.",unknown,2016
+,76,A big data analytics framework for border crossing transportation,"Wang, Haibo; Huo, Da; Xu, Yaquan",Inderscience,2017
+,77,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,78,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2014
+,79,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,80,"Predictive big data analytics for supply chain demand forecasting: methods, applications, and research opportunities","Seyedan, Mahya",Springer Nature,2020
+,81,Agile Big Data Analytics for Web-Based Systems: An Architecture-Centric Approach,"Chen, H.; Kazman, R.; Haziyev, S.",unknown,2016
+,82,A Big Data Application for Energy Consumption Management of Commercial Buildings,"Al Muhaysh, Sarah Abdullah;Al Salem, Thanaa Saad;Al Jaafari, Fatimah Abdullah;Hussain, Al Anoud Saleem Al ShaikhKhwaja, Amir Ali",IGI Publishing,2021
+,83,Clustering Big Spatiotemporal-Interval Data,"Shao, W.; Salim, F. D.; Song, A.; Bouguettaya, A.",unknown,2016
+,84,Leveraging Big Data analytics - case of Kenyan telecoms,"Moturi, Christopher A.; Karuga, Esther W.; Orwa, Daniel O.",Inderscience,2021
+,85,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2015
+,86,Scalable big data modelling,"Patel, Jayesh",Inderscience,2021
+,87,Improved big data stock index prediction using deep learning with CNN and GRU,"Eapen, Jithin; Verma, Abhishek; Bein, Doina",Inderscience,2021
+,88,Analyzing Bangkok city taxi ride: reforming fares for profit sustainability using big data driven model,"Phiboonbanakit, Thananut",Springer Nature,2021
+,89,Impact of rail transit station proximity to commercial property prices: utilizing big data in urban real estate,"Berawi, Mohammed Ali",Springer Nature,2020
+,90,Sleep stage classification using extreme learning machine and particle swarm optimization for healthcare big data,"Surantha, Nico",Springer Nature,2021
+,91,Correction to: Cooperative co‑evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,92,Predictors of outpatients' no-show: big data analytics using apache spark,"Daghistani, Tahani",Springer Nature,2020
+,93,Cooperative co-evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,94,A survey and analysis of intrusion detection models based on CSE-CIC-IDS2018 Big Data,"Leevy, Joffrey L.",Springer Nature,2020
+,95,CoPart: a context-based partitioning technique for big data,"Migliorini, Sara",Springer Nature,2021
+,96,Guest Editorial: Big Data Analytics and the Web,"Sheng, Q. Z.; Vasilakos, A. V.; Yu, Q.; Yao, L.",unknown,2015
+,97,Anomaly detection optimization using big data and deep learning to reduce false-positive,"Al Jallad, Khloud",Springer Nature,2020
+,98,Application of big data analytics and organizational performance: the mediating role of knowledge management practices,"Shabbir, Muhammad Qasim",Springer Nature,2020
+,99,Predictive analytics using big data for increased customer loyalty: Syriatel Telecom Company case study,"Wassouf, Wissam Nazeer",Springer Nature,2020
+,100,Mitigating Bias in Big Data for Transportation,"Griffin, Greg P.",Springer Nature,2020
+,1,Call for Special Issue Papers: Soft Computing Models for Big Data and Internet of Things,"Chilamkurti, Naveen; Paul, Anand; Kumar, Akshi",Mary Ann Leibert,2020
+,2,Atmospheric and ecosystem big data providing key contributions in reaching United Nations' Sustainable Development Goals,"Kulmala, Markku; Lintunen, Anna; Ylivinkka, Ilona; Mukkala, Janne; Rantanen, Rosa; Kujansuu, Joni; Petäjä, Tuukka; Lappalainen, Hanna K.",John Wiley & Sons Ltd,2021
+,3,Earth observation and geospatial big data management and engagement of stakeholders in Hungary to support the SDGs,"Mihály, Szabolcs; Remetey-Fülöpp, Gábor; Kristóf, Dániel; Czinkóczky, Anna; Palya, Tamás; Pásztor, László; Rudan, Pál; Szabó, György; Zentai, László",John Wiley & Sons Ltd,2021
+,4,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,5,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,6,A Novel Big Data Approach for Record and Represent Compliance in the Covid-19 Era,"Giacalone, M.","Elsevier Science B.V., Amsterdam",2022
+,7,Big Data 2.0: Cataclysm or Catalyst?,unknown,Mary Ann Leibert,2014
+,8,Curating Big Data Made Simple: Perspectives from Scientific Communities,unknown,Mary Ann Leibert,2014
+,9,The Uses of Big Data in Cities,unknown,Mary Ann Leibert,2014
+,10,Towards quantifying psychiatric diagnosis using machine learning algorithms and big fMRI data,"Saeed, Fahad",Springer Nature,2018
+,11,STGI：a spatio-temporal grid index model for marine big data,"Qu, Tengteng; Wang, Lizhe; Yu, Jian; Yan, Jining; Xu, Guilin; Li, Meng; Cheng, Chengqi; Hou, Kaihua; Chen, Bo",John Wiley & Sons Ltd,2020
+,12,Why Big Data = Big Deal,unknown,Mary Ann Leibert,2014
+,13,Optimizing Sentinel-2 image selection in a Big Data context,"Kempeneers, P.; Soille, P.",John Wiley & Sons Ltd,2017
+,14,Furthest-Pair-Based Binary Search Tree for Speeding Big Data Classification Using K-Nearest Neighbors,"Hassanat, A. B. A.",Mary Ann Leibert,2018
+,15,Big Data and Predictive Analytics in Health Care,unknown,Mary Ann Leibert,2014
+,16,Big Data for Social Good,unknown,Mary Ann Leibert,2015
+,17,Can Big Data Machines Analyze Stock Market Sentiment?,unknown,Mary Ann Leibert,2014
+,18,Big Data Literature Search,unknown,Mary Ann Leibert,2014
+,19,A Big Data Guide to Understanding Climate Change: The Case for Theory-Guided Data Science,unknown,Mary Ann Leibert,2014
+,20,Common Big Data Challenges and How to Overcome Them,unknown,Mary Ann Leibert,2014
+,21,TV Audience Measurement with Big Data,unknown,Mary Ann Leibert,2014
+,22,The U.S. Army Person-Event Data Environment: A MilitaryÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Civilian Big Data Enterprise,unknown,Mary Ann Leibert,2015
+,23,"Comparative study of big data of global adakites and mineralization-related granite in the Geza arc metallogenic belt, northwest Yunnan, Southwest China","Xuelong, Liu; Wenchang, Li; Qi, Zhang; Na, Zhang; Changzhen, Zhang; Ying, Luo; Shuaishuai, Wang; Fucheng, Yang; Jianhang, Chen; Zhenhuan, Li",John Wiley & Sons Ltd,2018
+,24,A new big data approach based on geoecological information-modeling system,"Varotsos, Costas A.; Krapivin, Vladimir F.",John Wiley & Sons Ltd,2017
+,25,Big data actionable intelligence architecture,"Ma, Tian J.",Springer Nature,2020
+,26,Exploring relationships between medical college rankings and performance with big data,"Rao, A.",Springer Nature,2019
+,27,Evaluating associative classification algorithms for Big Data,"Padillo, Francisco",Springer Nature,2019
+,28,Study on the use of different quality measures within a multi-objective evolutionary algorithm approach for emerging pattern mining in big data environments,"García-Vico, Ángel",Springer Nature,2019
+,29,Big Data for the Social Good: The Drought Early-Warning Experience Report,"Tamburri, Damian A.",unknown,2022
+,30,A GIS-based analytical framework for evaluating the effect of COVID-19 on the restaurant industry with big data,"Wang, Siqin",John Wiley & Sons Ltd,2023
+,31,Recent advance in earth observation big data for hydrology,"Chen, Lajiao; Wang, Lizhe",John Wiley & Sons Ltd,2018
+,32,Big Data architecture for intelligent maintenance: a focus on query processing and machine learning algorithms,"Lehmann, Claude",Springer Nature,2020
+,33,XDataExplorer: A Three-Stage Comprehensive Self-Tuning Tool for Big Data Platforms,"Guo, Qing","Elsevier Science B.V., Amsterdam",2022
+,34,New discrimination diagrams for basalts based on big data research,"Zhang, Qi; Sun, Weidong; Zhao, Yong; Yuan, Fanglin; Jiao, Shoutao; Chen, Wanfeng",John Wiley & Sons Ltd,2019
+,35,Big uncertain data of multiple sensors efficient processing with high order multi-hypothesis: an evidence theoretic approach,"Jafari, Hossein; Li, Xiangfang; Qian, Lijun; Aved, Alexander J.; Kroecker, Timothy S.",Inderscience,2018
+,36,A comparison on scalability for batch big data processing on Apache Spark and Apache Flink,"García-Gil, Diego; Ramírez-Gallego, Sergio; García, Salvador; Herrera, Francisco",Springer Nature,2017
+,37,Data behaviours model for Big Data visual analytics,"Zhang, Jinson; Huang, Mao Lin",Inderscience,2016
+,38,"Big Data, 3D Printing Technology, and Industry of the Future","Alabi, Micheal Omotayo",IGI Publising,2017
+,39,A Big Data Framework to Address Building Sum Insured Misestimation,"Roberts, Callum","Elsevier Science B.V., Amsterdam",2023
+,40,Does Medical School Training Relate to Practice? Evidence from Big Data,unknown,Mary Ann Leibert,2015
+,41,Big Data and the Rise of Machines in Financial Markets,unknown,Mary Ann Leibert,2014
+,42,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,43,Big Data As an Enabler of Primary Education,unknown,Mary Ann Leibert,2016
+,44,Big Data Analytics and Visualization in Traffic Monitoring,"Bachechi, Chiara","Elsevier Science B.V., Amsterdam",2022
+,45,Corrigendum to High Frequency Analysis of Macro News Releases on the Foreign Exchange Market: A Survey of Literature [Big Data Res. 2 (1) (2015) 33–48],"Li, Wei","Elsevier Science B.V., Amsterdam",2022
+,46,Unsupervised Tensor Mining for Big Data Practitioners,unknown,Mary Ann Leibert,2016
+,47,An Exercise in Exploring Big Data for Producing Reliable Statistical Information,unknown,Mary Ann Leibert,2016
+,48,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,49,Towards Efficient Energy Utilization Using Big Data Analytics in Smart Cities for Electricity Theft Detection,"Arif, Arooj","Elsevier Science B.V., Amsterdam",2022
+,50,Big data and analytics: a data management perspective in public administration,"Mittal, Prabhat",Inderscience,2020
+,51,Big Data in Forecasting Research: A Literature Review,"Tang, Ling","Elsevier Science B.V., Amsterdam",2022
+,52,Strength in Numbers: Using Big Data to Simplify Sentiment Classification,unknown,Mary Ann Leibert,2017
+,53,A Message from the Editor-in-Chief of Big Data,unknown,Mary Ann Leibert,2017
+,54,Research Dilemmas with Behavioral Big Data,unknown,Mary Ann Leibert,2017
+,55,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,56,Fine Clustering Analysis of Internet Financial Credit Investigation Based on Big Data,"Sun, Jingqi","Elsevier Science B.V., Amsterdam",2022
+,57,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,58,Correction to: Big Data 2016;4:60–66,unknown,Mary Ann Leibert,2016
+,59,Big Data on Robotics,unknown,Mary Ann Leibert,2016
+,60,Combining Human Computing and Machine Learning to Make Sense of Big (Aerial) Data for Disaster Response,unknown,Mary Ann Leibert,2016
+,61,"Interview with Dr. Silvio Carta, Author of the Book Big Data, Code and the Discrete City (Routledge 2019)","Carta, Silvio",Mary Ann Leibert,2019
+,62,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,63,Big data ensemble clinical prediction for healthcare data by using deep learning model,"Rallapalli, Sreekanth; Gondkar, R.R.",Inderscience,2018
+,64,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2019
+,65,Using Big Data to Understand the Human Condition: The Kavli Human Project,unknown,Mary Ann Leibert,2015
+,66,"Big Data, Little Data, and Care Coordination for Medicare Beneficiaries with Medigap Coverage",unknown,Mary Ann Leibert,2015
+,67,Labor Economists Get Their Microscope: Big Data and Labor Market Analysis,unknown,Mary Ann Leibert,2015
+,68,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2020
+,69,"Deep Learning on Big, Sparse, Behavioral Data","De Cnudde, Sofie; Ramon, Yanou; Martens, David; Provost, Foster",Mary Ann Leibert,2019
+,70,National Surveys of Population Health: Big Data Analytics for Mobile Health Monitors,unknown,Mary Ann Leibert,2015
+,71,SOOM: Sort-Based Optimizer for Big Data Multi-Query,"Sahal, Radhya; Khafagy, Mohammed H.; Omara, Fatma A.",Mary Ann Leibert,2020
+,72,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,73,Big Data in Healthcare: Opportunities and Challenges,unknown,Mary Ann Leibert,2015
+,74,Sorting big data by revealed preference with application to college ranking,"Hu, Xingwei",Springer Nature,2020
+,75,Analyzing Big Smart Metering Data Towards Differentiated User Services: A Sublinear Approach,"Pan, E.; Wang, D.; Han, Z.",unknown,2016
+,76,A big data analytics framework for border crossing transportation,"Wang, Haibo; Huo, Da; Xu, Yaquan",Inderscience,2017
+,77,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,78,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2014
+,79,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,80,"Predictive big data analytics for supply chain demand forecasting: methods, applications, and research opportunities","Seyedan, Mahya",Springer Nature,2020
+,81,Agile Big Data Analytics for Web-Based Systems: An Architecture-Centric Approach,"Chen, H.; Kazman, R.; Haziyev, S.",unknown,2016
+,82,A Big Data Application for Energy Consumption Management of Commercial Buildings,"Al Muhaysh, Sarah Abdullah;Al Salem, Thanaa Saad;Al Jaafari, Fatimah Abdullah;Hussain, Al Anoud Saleem Al ShaikhKhwaja, Amir Ali",IGI Publishing,2021
+,83,Clustering Big Spatiotemporal-Interval Data,"Shao, W.; Salim, F. D.; Song, A.; Bouguettaya, A.",unknown,2016
+,84,Leveraging Big Data analytics - case of Kenyan telecoms,"Moturi, Christopher A.; Karuga, Esther W.; Orwa, Daniel O.",Inderscience,2021
+,85,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2015
+,86,Scalable big data modelling,"Patel, Jayesh",Inderscience,2021
+,87,Improved big data stock index prediction using deep learning with CNN and GRU,"Eapen, Jithin; Verma, Abhishek; Bein, Doina",Inderscience,2021
+,88,Analyzing Bangkok city taxi ride: reforming fares for profit sustainability using big data driven model,"Phiboonbanakit, Thananut",Springer Nature,2021
+,89,Impact of rail transit station proximity to commercial property prices: utilizing big data in urban real estate,"Berawi, Mohammed Ali",Springer Nature,2020
+,90,Sleep stage classification using extreme learning machine and particle swarm optimization for healthcare big data,"Surantha, Nico",Springer Nature,2021
+,91,Correction to: Cooperative co‑evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,92,Predictors of outpatients' no-show: big data analytics using apache spark,"Daghistani, Tahani",Springer Nature,2020
+,93,Cooperative co-evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,94,A survey and analysis of intrusion detection models based on CSE-CIC-IDS2018 Big Data,"Leevy, Joffrey L.",Springer Nature,2020
+,95,CoPart: a context-based partitioning technique for big data,"Migliorini, Sara",Springer Nature,2021
+,96,Guest Editorial: Big Data Analytics and the Web,"Sheng, Q. Z.; Vasilakos, A. V.; Yu, Q.; Yao, L.",unknown,2015
+,97,Anomaly detection optimization using big data and deep learning to reduce false-positive,"Al Jallad, Khloud",Springer Nature,2020
+,98,Application of big data analytics and organizational performance: the mediating role of knowledge management practices,"Shabbir, Muhammad Qasim",Springer Nature,2020
+,99,Predictive analytics using big data for increased customer loyalty: Syriatel Telecom Company case study,"Wassouf, Wissam Nazeer",Springer Nature,2020
+,100,Mitigating Bias in Big Data for Transportation,"Griffin, Greg P.",Springer Nature,2020
+,1,Call for Special Issue Papers: Soft Computing Models for Big Data and Internet of Things,"Chilamkurti, Naveen; Paul, Anand; Kumar, Akshi",Mary Ann Leibert,2020
+,2,Atmospheric and ecosystem big data providing key contributions in reaching United Nations' Sustainable Development Goals,"Kulmala, Markku; Lintunen, Anna; Ylivinkka, Ilona; Mukkala, Janne; Rantanen, Rosa; Kujansuu, Joni; Petäjä, Tuukka; Lappalainen, Hanna K.",John Wiley & Sons Ltd,2021
+,3,Earth observation and geospatial big data management and engagement of stakeholders in Hungary to support the SDGs,"Mihály, Szabolcs; Remetey-Fülöpp, Gábor; Kristóf, Dániel; Czinkóczky, Anna; Palya, Tamás; Pásztor, László; Rudan, Pál; Szabó, György; Zentai, László",John Wiley & Sons Ltd,2021
+,4,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,5,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,6,A Novel Big Data Approach for Record and Represent Compliance in the Covid-19 Era,"Giacalone, M.","Elsevier Science B.V., Amsterdam",2022
+,7,Big Data 2.0: Cataclysm or Catalyst?,unknown,Mary Ann Leibert,2014
+,8,Curating Big Data Made Simple: Perspectives from Scientific Communities,unknown,Mary Ann Leibert,2014
+,9,The Uses of Big Data in Cities,unknown,Mary Ann Leibert,2014
+,10,Towards quantifying psychiatric diagnosis using machine learning algorithms and big fMRI data,"Saeed, Fahad",Springer Nature,2018
+,11,STGI：a spatio-temporal grid index model for marine big data,"Qu, Tengteng; Wang, Lizhe; Yu, Jian; Yan, Jining; Xu, Guilin; Li, Meng; Cheng, Chengqi; Hou, Kaihua; Chen, Bo",John Wiley & Sons Ltd,2020
+,12,Why Big Data = Big Deal,unknown,Mary Ann Leibert,2014
+,13,Optimizing Sentinel-2 image selection in a Big Data context,"Kempeneers, P.; Soille, P.",John Wiley & Sons Ltd,2017
+,14,Furthest-Pair-Based Binary Search Tree for Speeding Big Data Classification Using K-Nearest Neighbors,"Hassanat, A. B. A.",Mary Ann Leibert,2018
+,15,Big Data and Predictive Analytics in Health Care,unknown,Mary Ann Leibert,2014
+,16,Big Data for Social Good,unknown,Mary Ann Leibert,2015
+,17,Can Big Data Machines Analyze Stock Market Sentiment?,unknown,Mary Ann Leibert,2014
+,18,Big Data Literature Search,unknown,Mary Ann Leibert,2014
+,19,A Big Data Guide to Understanding Climate Change: The Case for Theory-Guided Data Science,unknown,Mary Ann Leibert,2014
+,20,Common Big Data Challenges and How to Overcome Them,unknown,Mary Ann Leibert,2014
+,21,TV Audience Measurement with Big Data,unknown,Mary Ann Leibert,2014
+,22,The U.S. Army Person-Event Data Environment: A MilitaryÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Civilian Big Data Enterprise,unknown,Mary Ann Leibert,2015
+,23,"Comparative study of big data of global adakites and mineralization-related granite in the Geza arc metallogenic belt, northwest Yunnan, Southwest China","Xuelong, Liu; Wenchang, Li; Qi, Zhang; Na, Zhang; Changzhen, Zhang; Ying, Luo; Shuaishuai, Wang; Fucheng, Yang; Jianhang, Chen; Zhenhuan, Li",John Wiley & Sons Ltd,2018
+,24,A new big data approach based on geoecological information-modeling system,"Varotsos, Costas A.; Krapivin, Vladimir F.",John Wiley & Sons Ltd,2017
+,25,Big data actionable intelligence architecture,"Ma, Tian J.",Springer Nature,2020
+,26,Exploring relationships between medical college rankings and performance with big data,"Rao, A.",Springer Nature,2019
+,27,Evaluating associative classification algorithms for Big Data,"Padillo, Francisco",Springer Nature,2019
+,28,Study on the use of different quality measures within a multi-objective evolutionary algorithm approach for emerging pattern mining in big data environments,"García-Vico, Ángel",Springer Nature,2019
+,29,Big Data for the Social Good: The Drought Early-Warning Experience Report,"Tamburri, Damian A.",unknown,2022
+,30,A GIS-based analytical framework for evaluating the effect of COVID-19 on the restaurant industry with big data,"Wang, Siqin",John Wiley & Sons Ltd,2023
+,31,Recent advance in earth observation big data for hydrology,"Chen, Lajiao; Wang, Lizhe",John Wiley & Sons Ltd,2018
+,32,Big Data architecture for intelligent maintenance: a focus on query processing and machine learning algorithms,"Lehmann, Claude",Springer Nature,2020
+,33,XDataExplorer: A Three-Stage Comprehensive Self-Tuning Tool for Big Data Platforms,"Guo, Qing","Elsevier Science B.V., Amsterdam",2022
+,34,New discrimination diagrams for basalts based on big data research,"Zhang, Qi; Sun, Weidong; Zhao, Yong; Yuan, Fanglin; Jiao, Shoutao; Chen, Wanfeng",John Wiley & Sons Ltd,2019
+,35,Big uncertain data of multiple sensors efficient processing with high order multi-hypothesis: an evidence theoretic approach,"Jafari, Hossein; Li, Xiangfang; Qian, Lijun; Aved, Alexander J.; Kroecker, Timothy S.",Inderscience,2018
+,36,A comparison on scalability for batch big data processing on Apache Spark and Apache Flink,"García-Gil, Diego; Ramírez-Gallego, Sergio; García, Salvador; Herrera, Francisco",Springer Nature,2017
+,37,Data behaviours model for Big Data visual analytics,"Zhang, Jinson; Huang, Mao Lin",Inderscience,2016
+,38,"Big Data, 3D Printing Technology, and Industry of the Future","Alabi, Micheal Omotayo",IGI Publising,2017
+,39,A Big Data Framework to Address Building Sum Insured Misestimation,"Roberts, Callum","Elsevier Science B.V., Amsterdam",2023
+,40,Does Medical School Training Relate to Practice? Evidence from Big Data,unknown,Mary Ann Leibert,2015
+,41,Big Data and the Rise of Machines in Financial Markets,unknown,Mary Ann Leibert,2014
+,42,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,43,Big Data As an Enabler of Primary Education,unknown,Mary Ann Leibert,2016
+,44,Big Data Analytics and Visualization in Traffic Monitoring,"Bachechi, Chiara","Elsevier Science B.V., Amsterdam",2022
+,45,Corrigendum to High Frequency Analysis of Macro News Releases on the Foreign Exchange Market: A Survey of Literature [Big Data Res. 2 (1) (2015) 33–48],"Li, Wei","Elsevier Science B.V., Amsterdam",2022
+,46,Unsupervised Tensor Mining for Big Data Practitioners,unknown,Mary Ann Leibert,2016
+,47,An Exercise in Exploring Big Data for Producing Reliable Statistical Information,unknown,Mary Ann Leibert,2016
+,48,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,49,Towards Efficient Energy Utilization Using Big Data Analytics in Smart Cities for Electricity Theft Detection,"Arif, Arooj","Elsevier Science B.V., Amsterdam",2022
+,50,Big data and analytics: a data management perspective in public administration,"Mittal, Prabhat",Inderscience,2020
+,51,Big Data in Forecasting Research: A Literature Review,"Tang, Ling","Elsevier Science B.V., Amsterdam",2022
+,52,Strength in Numbers: Using Big Data to Simplify Sentiment Classification,unknown,Mary Ann Leibert,2017
+,53,A Message from the Editor-in-Chief of Big Data,unknown,Mary Ann Leibert,2017
+,54,Research Dilemmas with Behavioral Big Data,unknown,Mary Ann Leibert,2017
+,55,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,56,Fine Clustering Analysis of Internet Financial Credit Investigation Based on Big Data,"Sun, Jingqi","Elsevier Science B.V., Amsterdam",2022
+,57,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,58,Correction to: Big Data 2016;4:60–66,unknown,Mary Ann Leibert,2016
+,59,Big Data on Robotics,unknown,Mary Ann Leibert,2016
+,60,Combining Human Computing and Machine Learning to Make Sense of Big (Aerial) Data for Disaster Response,unknown,Mary Ann Leibert,2016
+,61,"Interview with Dr. Silvio Carta, Author of the Book Big Data, Code and the Discrete City (Routledge 2019)","Carta, Silvio",Mary Ann Leibert,2019
+,62,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,63,Big data ensemble clinical prediction for healthcare data by using deep learning model,"Rallapalli, Sreekanth; Gondkar, R.R.",Inderscience,2018
+,64,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2019
+,65,Using Big Data to Understand the Human Condition: The Kavli Human Project,unknown,Mary Ann Leibert,2015
+,66,"Big Data, Little Data, and Care Coordination for Medicare Beneficiaries with Medigap Coverage",unknown,Mary Ann Leibert,2015
+,67,Labor Economists Get Their Microscope: Big Data and Labor Market Analysis,unknown,Mary Ann Leibert,2015
+,68,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2020
+,69,"Deep Learning on Big, Sparse, Behavioral Data","De Cnudde, Sofie; Ramon, Yanou; Martens, David; Provost, Foster",Mary Ann Leibert,2019
+,70,National Surveys of Population Health: Big Data Analytics for Mobile Health Monitors,unknown,Mary Ann Leibert,2015
+,71,SOOM: Sort-Based Optimizer for Big Data Multi-Query,"Sahal, Radhya; Khafagy, Mohammed H.; Omara, Fatma A.",Mary Ann Leibert,2020
+,72,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,73,Big Data in Healthcare: Opportunities and Challenges,unknown,Mary Ann Leibert,2015
+,74,Sorting big data by revealed preference with application to college ranking,"Hu, Xingwei",Springer Nature,2020
+,75,Analyzing Big Smart Metering Data Towards Differentiated User Services: A Sublinear Approach,"Pan, E.; Wang, D.; Han, Z.",unknown,2016
+,76,A big data analytics framework for border crossing transportation,"Wang, Haibo; Huo, Da; Xu, Yaquan",Inderscience,2017
+,77,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,78,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2014
+,79,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,80,"Predictive big data analytics for supply chain demand forecasting: methods, applications, and research opportunities","Seyedan, Mahya",Springer Nature,2020
+,81,Agile Big Data Analytics for Web-Based Systems: An Architecture-Centric Approach,"Chen, H.; Kazman, R.; Haziyev, S.",unknown,2016
+,82,A Big Data Application for Energy Consumption Management of Commercial Buildings,"Al Muhaysh, Sarah Abdullah;Al Salem, Thanaa Saad;Al Jaafari, Fatimah Abdullah;Hussain, Al Anoud Saleem Al ShaikhKhwaja, Amir Ali",IGI Publishing,2021
+,83,Clustering Big Spatiotemporal-Interval Data,"Shao, W.; Salim, F. D.; Song, A.; Bouguettaya, A.",unknown,2016
+,84,Leveraging Big Data analytics - case of Kenyan telecoms,"Moturi, Christopher A.; Karuga, Esther W.; Orwa, Daniel O.",Inderscience,2021
+,85,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2015
+,86,Scalable big data modelling,"Patel, Jayesh",Inderscience,2021
+,87,Improved big data stock index prediction using deep learning with CNN and GRU,"Eapen, Jithin; Verma, Abhishek; Bein, Doina",Inderscience,2021
+,88,Analyzing Bangkok city taxi ride: reforming fares for profit sustainability using big data driven model,"Phiboonbanakit, Thananut",Springer Nature,2021
+,89,Impact of rail transit station proximity to commercial property prices: utilizing big data in urban real estate,"Berawi, Mohammed Ali",Springer Nature,2020
+,90,Sleep stage classification using extreme learning machine and particle swarm optimization for healthcare big data,"Surantha, Nico",Springer Nature,2021
+,91,Correction to: Cooperative co‑evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,92,Predictors of outpatients' no-show: big data analytics using apache spark,"Daghistani, Tahani",Springer Nature,2020
+,93,Cooperative co-evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,94,A survey and analysis of intrusion detection models based on CSE-CIC-IDS2018 Big Data,"Leevy, Joffrey L.",Springer Nature,2020
+,95,CoPart: a context-based partitioning technique for big data,"Migliorini, Sara",Springer Nature,2021
+,96,Guest Editorial: Big Data Analytics and the Web,"Sheng, Q. Z.; Vasilakos, A. V.; Yu, Q.; Yao, L.",unknown,2015
+,97,Anomaly detection optimization using big data and deep learning to reduce false-positive,"Al Jallad, Khloud",Springer Nature,2020
+,98,Application of big data analytics and organizational performance: the mediating role of knowledge management practices,"Shabbir, Muhammad Qasim",Springer Nature,2020
+,99,Predictive analytics using big data for increased customer loyalty: Syriatel Telecom Company case study,"Wassouf, Wissam Nazeer",Springer Nature,2020
+,100,Mitigating Bias in Big Data for Transportation,"Griffin, Greg P.",Springer Nature,2020
+,1,Call for Special Issue Papers: Soft Computing Models for Big Data and Internet of Things,"Chilamkurti, Naveen; Paul, Anand; Kumar, Akshi",Mary Ann Leibert,2020
+,2,Atmospheric and ecosystem big data providing key contributions in reaching United Nations' Sustainable Development Goals,"Kulmala, Markku; Lintunen, Anna; Ylivinkka, Ilona; Mukkala, Janne; Rantanen, Rosa; Kujansuu, Joni; Petäjä, Tuukka; Lappalainen, Hanna K.",John Wiley & Sons Ltd,2021
+,3,Earth observation and geospatial big data management and engagement of stakeholders in Hungary to support the SDGs,"Mihály, Szabolcs; Remetey-Fülöpp, Gábor; Kristóf, Dániel; Czinkóczky, Anna; Palya, Tamás; Pásztor, László; Rudan, Pál; Szabó, György; Zentai, László",John Wiley & Sons Ltd,2021
+,4,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,5,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,6,A Novel Big Data Approach for Record and Represent Compliance in the Covid-19 Era,"Giacalone, M.","Elsevier Science B.V., Amsterdam",2022
+,7,Big Data 2.0: Cataclysm or Catalyst?,unknown,Mary Ann Leibert,2014
+,8,Curating Big Data Made Simple: Perspectives from Scientific Communities,unknown,Mary Ann Leibert,2014
+,9,The Uses of Big Data in Cities,unknown,Mary Ann Leibert,2014
+,10,Towards quantifying psychiatric diagnosis using machine learning algorithms and big fMRI data,"Saeed, Fahad",Springer Nature,2018
+,11,STGI：a spatio-temporal grid index model for marine big data,"Qu, Tengteng; Wang, Lizhe; Yu, Jian; Yan, Jining; Xu, Guilin; Li, Meng; Cheng, Chengqi; Hou, Kaihua; Chen, Bo",John Wiley & Sons Ltd,2020
+,12,Why Big Data = Big Deal,unknown,Mary Ann Leibert,2014
+,13,Optimizing Sentinel-2 image selection in a Big Data context,"Kempeneers, P.; Soille, P.",John Wiley & Sons Ltd,2017
+,14,Furthest-Pair-Based Binary Search Tree for Speeding Big Data Classification Using K-Nearest Neighbors,"Hassanat, A. B. A.",Mary Ann Leibert,2018
+,15,Big Data and Predictive Analytics in Health Care,unknown,Mary Ann Leibert,2014
+,16,Big Data for Social Good,unknown,Mary Ann Leibert,2015
+,17,Can Big Data Machines Analyze Stock Market Sentiment?,unknown,Mary Ann Leibert,2014
+,18,Big Data Literature Search,unknown,Mary Ann Leibert,2014
+,19,A Big Data Guide to Understanding Climate Change: The Case for Theory-Guided Data Science,unknown,Mary Ann Leibert,2014
+,20,Common Big Data Challenges and How to Overcome Them,unknown,Mary Ann Leibert,2014
+,21,TV Audience Measurement with Big Data,unknown,Mary Ann Leibert,2014
+,22,The U.S. Army Person-Event Data Environment: A MilitaryÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Civilian Big Data Enterprise,unknown,Mary Ann Leibert,2015
+,23,"Comparative study of big data of global adakites and mineralization-related granite in the Geza arc metallogenic belt, northwest Yunnan, Southwest China","Xuelong, Liu; Wenchang, Li; Qi, Zhang; Na, Zhang; Changzhen, Zhang; Ying, Luo; Shuaishuai, Wang; Fucheng, Yang; Jianhang, Chen; Zhenhuan, Li",John Wiley & Sons Ltd,2018
+,24,A new big data approach based on geoecological information-modeling system,"Varotsos, Costas A.; Krapivin, Vladimir F.",John Wiley & Sons Ltd,2017
+,25,Big data actionable intelligence architecture,"Ma, Tian J.",Springer Nature,2020
+,26,Exploring relationships between medical college rankings and performance with big data,"Rao, A.",Springer Nature,2019
+,27,Evaluating associative classification algorithms for Big Data,"Padillo, Francisco",Springer Nature,2019
+,28,Study on the use of different quality measures within a multi-objective evolutionary algorithm approach for emerging pattern mining in big data environments,"García-Vico, Ángel",Springer Nature,2019
+,29,Big Data for the Social Good: The Drought Early-Warning Experience Report,"Tamburri, Damian A.",unknown,2022
+,30,A GIS-based analytical framework for evaluating the effect of COVID-19 on the restaurant industry with big data,"Wang, Siqin",John Wiley & Sons Ltd,2023
+,31,Recent advance in earth observation big data for hydrology,"Chen, Lajiao; Wang, Lizhe",John Wiley & Sons Ltd,2018
+,32,Big Data architecture for intelligent maintenance: a focus on query processing and machine learning algorithms,"Lehmann, Claude",Springer Nature,2020
+,33,XDataExplorer: A Three-Stage Comprehensive Self-Tuning Tool for Big Data Platforms,"Guo, Qing","Elsevier Science B.V., Amsterdam",2022
+,34,New discrimination diagrams for basalts based on big data research,"Zhang, Qi; Sun, Weidong; Zhao, Yong; Yuan, Fanglin; Jiao, Shoutao; Chen, Wanfeng",John Wiley & Sons Ltd,2019
+,35,Big uncertain data of multiple sensors efficient processing with high order multi-hypothesis: an evidence theoretic approach,"Jafari, Hossein; Li, Xiangfang; Qian, Lijun; Aved, Alexander J.; Kroecker, Timothy S.",Inderscience,2018
+,36,A comparison on scalability for batch big data processing on Apache Spark and Apache Flink,"García-Gil, Diego; Ramírez-Gallego, Sergio; García, Salvador; Herrera, Francisco",Springer Nature,2017
+,37,Data behaviours model for Big Data visual analytics,"Zhang, Jinson; Huang, Mao Lin",Inderscience,2016
+,38,"Big Data, 3D Printing Technology, and Industry of the Future","Alabi, Micheal Omotayo",IGI Publising,2017
+,39,A Big Data Framework to Address Building Sum Insured Misestimation,"Roberts, Callum","Elsevier Science B.V., Amsterdam",2023
+,40,Does Medical School Training Relate to Practice? Evidence from Big Data,unknown,Mary Ann Leibert,2015
+,41,Big Data and the Rise of Machines in Financial Markets,unknown,Mary Ann Leibert,2014
+,42,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,43,Big Data As an Enabler of Primary Education,unknown,Mary Ann Leibert,2016
+,44,Big Data Analytics and Visualization in Traffic Monitoring,"Bachechi, Chiara","Elsevier Science B.V., Amsterdam",2022
+,45,Corrigendum to High Frequency Analysis of Macro News Releases on the Foreign Exchange Market: A Survey of Literature [Big Data Res. 2 (1) (2015) 33–48],"Li, Wei","Elsevier Science B.V., Amsterdam",2022
+,46,Unsupervised Tensor Mining for Big Data Practitioners,unknown,Mary Ann Leibert,2016
+,47,An Exercise in Exploring Big Data for Producing Reliable Statistical Information,unknown,Mary Ann Leibert,2016
+,48,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,49,Towards Efficient Energy Utilization Using Big Data Analytics in Smart Cities for Electricity Theft Detection,"Arif, Arooj","Elsevier Science B.V., Amsterdam",2022
+,50,Big data and analytics: a data management perspective in public administration,"Mittal, Prabhat",Inderscience,2020
+,51,Big Data in Forecasting Research: A Literature Review,"Tang, Ling","Elsevier Science B.V., Amsterdam",2022
+,52,Strength in Numbers: Using Big Data to Simplify Sentiment Classification,unknown,Mary Ann Leibert,2017
+,53,A Message from the Editor-in-Chief of Big Data,unknown,Mary Ann Leibert,2017
+,54,Research Dilemmas with Behavioral Big Data,unknown,Mary Ann Leibert,2017
+,55,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,56,Fine Clustering Analysis of Internet Financial Credit Investigation Based on Big Data,"Sun, Jingqi","Elsevier Science B.V., Amsterdam",2022
+,57,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,58,Correction to: Big Data 2016;4:60–66,unknown,Mary Ann Leibert,2016
+,59,Big Data on Robotics,unknown,Mary Ann Leibert,2016
+,60,Combining Human Computing and Machine Learning to Make Sense of Big (Aerial) Data for Disaster Response,unknown,Mary Ann Leibert,2016
+,61,"Interview with Dr. Silvio Carta, Author of the Book Big Data, Code and the Discrete City (Routledge 2019)","Carta, Silvio",Mary Ann Leibert,2019
+,62,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,63,Big data ensemble clinical prediction for healthcare data by using deep learning model,"Rallapalli, Sreekanth; Gondkar, R.R.",Inderscience,2018
+,64,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2019
+,65,Using Big Data to Understand the Human Condition: The Kavli Human Project,unknown,Mary Ann Leibert,2015
+,66,"Big Data, Little Data, and Care Coordination for Medicare Beneficiaries with Medigap Coverage",unknown,Mary Ann Leibert,2015
+,67,Labor Economists Get Their Microscope: Big Data and Labor Market Analysis,unknown,Mary Ann Leibert,2015
+,68,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2020
+,69,"Deep Learning on Big, Sparse, Behavioral Data","De Cnudde, Sofie; Ramon, Yanou; Martens, David; Provost, Foster",Mary Ann Leibert,2019
+,70,National Surveys of Population Health: Big Data Analytics for Mobile Health Monitors,unknown,Mary Ann Leibert,2015
+,71,SOOM: Sort-Based Optimizer for Big Data Multi-Query,"Sahal, Radhya; Khafagy, Mohammed H.; Omara, Fatma A.",Mary Ann Leibert,2020
+,72,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,73,Big Data in Healthcare: Opportunities and Challenges,unknown,Mary Ann Leibert,2015
+,74,Sorting big data by revealed preference with application to college ranking,"Hu, Xingwei",Springer Nature,2020
+,75,Analyzing Big Smart Metering Data Towards Differentiated User Services: A Sublinear Approach,"Pan, E.; Wang, D.; Han, Z.",unknown,2016
+,76,A big data analytics framework for border crossing transportation,"Wang, Haibo; Huo, Da; Xu, Yaquan",Inderscience,2017
+,77,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,78,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2014
+,79,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,80,"Predictive big data analytics for supply chain demand forecasting: methods, applications, and research opportunities","Seyedan, Mahya",Springer Nature,2020
+,81,Agile Big Data Analytics for Web-Based Systems: An Architecture-Centric Approach,"Chen, H.; Kazman, R.; Haziyev, S.",unknown,2016
+,82,A Big Data Application for Energy Consumption Management of Commercial Buildings,"Al Muhaysh, Sarah Abdullah;Al Salem, Thanaa Saad;Al Jaafari, Fatimah Abdullah;Hussain, Al Anoud Saleem Al ShaikhKhwaja, Amir Ali",IGI Publishing,2021
+,83,Clustering Big Spatiotemporal-Interval Data,"Shao, W.; Salim, F. D.; Song, A.; Bouguettaya, A.",unknown,2016
+,84,Leveraging Big Data analytics - case of Kenyan telecoms,"Moturi, Christopher A.; Karuga, Esther W.; Orwa, Daniel O.",Inderscience,2021
+,85,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2015
+,86,Scalable big data modelling,"Patel, Jayesh",Inderscience,2021
+,87,Improved big data stock index prediction using deep learning with CNN and GRU,"Eapen, Jithin; Verma, Abhishek; Bein, Doina",Inderscience,2021
+,88,Analyzing Bangkok city taxi ride: reforming fares for profit sustainability using big data driven model,"Phiboonbanakit, Thananut",Springer Nature,2021
+,89,Impact of rail transit station proximity to commercial property prices: utilizing big data in urban real estate,"Berawi, Mohammed Ali",Springer Nature,2020
+,90,Sleep stage classification using extreme learning machine and particle swarm optimization for healthcare big data,"Surantha, Nico",Springer Nature,2021
+,91,Correction to: Cooperative co‑evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,92,Predictors of outpatients' no-show: big data analytics using apache spark,"Daghistani, Tahani",Springer Nature,2020
+,93,Cooperative co-evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,94,A survey and analysis of intrusion detection models based on CSE-CIC-IDS2018 Big Data,"Leevy, Joffrey L.",Springer Nature,2020
+,95,CoPart: a context-based partitioning technique for big data,"Migliorini, Sara",Springer Nature,2021
+,96,Guest Editorial: Big Data Analytics and the Web,"Sheng, Q. Z.; Vasilakos, A. V.; Yu, Q.; Yao, L.",unknown,2015
+,97,Anomaly detection optimization using big data and deep learning to reduce false-positive,"Al Jallad, Khloud",Springer Nature,2020
+,98,Application of big data analytics and organizational performance: the mediating role of knowledge management practices,"Shabbir, Muhammad Qasim",Springer Nature,2020
+,99,Predictive analytics using big data for increased customer loyalty: Syriatel Telecom Company case study,"Wassouf, Wissam Nazeer",Springer Nature,2020
+,100,Mitigating Bias in Big Data for Transportation,"Griffin, Greg P.",Springer Nature,2020
+,1,Call for Special Issue Papers: Soft Computing Models for Big Data and Internet of Things,"Chilamkurti, Naveen; Paul, Anand; Kumar, Akshi",Mary Ann Leibert,2020
+,2,Atmospheric and ecosystem big data providing key contributions in reaching United Nations' Sustainable Development Goals,"Kulmala, Markku; Lintunen, Anna; Ylivinkka, Ilona; Mukkala, Janne; Rantanen, Rosa; Kujansuu, Joni; Petäjä, Tuukka; Lappalainen, Hanna K.",John Wiley & Sons Ltd,2021
+,3,Earth observation and geospatial big data management and engagement of stakeholders in Hungary to support the SDGs,"Mihály, Szabolcs; Remetey-Fülöpp, Gábor; Kristóf, Dániel; Czinkóczky, Anna; Palya, Tamás; Pásztor, László; Rudan, Pál; Szabó, György; Zentai, László",John Wiley & Sons Ltd,2021
+,4,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,5,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,6,A Novel Big Data Approach for Record and Represent Compliance in the Covid-19 Era,"Giacalone, M.","Elsevier Science B.V., Amsterdam",2022
+,7,Big Data 2.0: Cataclysm or Catalyst?,unknown,Mary Ann Leibert,2014
+,8,Curating Big Data Made Simple: Perspectives from Scientific Communities,unknown,Mary Ann Leibert,2014
+,9,The Uses of Big Data in Cities,unknown,Mary Ann Leibert,2014
+,10,Towards quantifying psychiatric diagnosis using machine learning algorithms and big fMRI data,"Saeed, Fahad",Springer Nature,2018
+,11,STGI：a spatio-temporal grid index model for marine big data,"Qu, Tengteng; Wang, Lizhe; Yu, Jian; Yan, Jining; Xu, Guilin; Li, Meng; Cheng, Chengqi; Hou, Kaihua; Chen, Bo",John Wiley & Sons Ltd,2020
+,12,Why Big Data = Big Deal,unknown,Mary Ann Leibert,2014
+,13,Optimizing Sentinel-2 image selection in a Big Data context,"Kempeneers, P.; Soille, P.",John Wiley & Sons Ltd,2017
+,14,Furthest-Pair-Based Binary Search Tree for Speeding Big Data Classification Using K-Nearest Neighbors,"Hassanat, A. B. A.",Mary Ann Leibert,2018
+,15,Big Data and Predictive Analytics in Health Care,unknown,Mary Ann Leibert,2014
+,16,Big Data for Social Good,unknown,Mary Ann Leibert,2015
+,17,Can Big Data Machines Analyze Stock Market Sentiment?,unknown,Mary Ann Leibert,2014
+,18,Big Data Literature Search,unknown,Mary Ann Leibert,2014
+,19,A Big Data Guide to Understanding Climate Change: The Case for Theory-Guided Data Science,unknown,Mary Ann Leibert,2014
+,20,Common Big Data Challenges and How to Overcome Them,unknown,Mary Ann Leibert,2014
+,21,TV Audience Measurement with Big Data,unknown,Mary Ann Leibert,2014
+,22,The U.S. Army Person-Event Data Environment: A MilitaryÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Civilian Big Data Enterprise,unknown,Mary Ann Leibert,2015
+,23,"Comparative study of big data of global adakites and mineralization-related granite in the Geza arc metallogenic belt, northwest Yunnan, Southwest China","Xuelong, Liu; Wenchang, Li; Qi, Zhang; Na, Zhang; Changzhen, Zhang; Ying, Luo; Shuaishuai, Wang; Fucheng, Yang; Jianhang, Chen; Zhenhuan, Li",John Wiley & Sons Ltd,2018
+,24,A new big data approach based on geoecological information-modeling system,"Varotsos, Costas A.; Krapivin, Vladimir F.",John Wiley & Sons Ltd,2017
+,25,Big data actionable intelligence architecture,"Ma, Tian J.",Springer Nature,2020
+,26,Exploring relationships between medical college rankings and performance with big data,"Rao, A.",Springer Nature,2019
+,27,Evaluating associative classification algorithms for Big Data,"Padillo, Francisco",Springer Nature,2019
+,28,Study on the use of different quality measures within a multi-objective evolutionary algorithm approach for emerging pattern mining in big data environments,"García-Vico, Ángel",Springer Nature,2019
+,29,Big Data for the Social Good: The Drought Early-Warning Experience Report,"Tamburri, Damian A.",unknown,2022
+,30,A GIS-based analytical framework for evaluating the effect of COVID-19 on the restaurant industry with big data,"Wang, Siqin",John Wiley & Sons Ltd,2023
+,31,Recent advance in earth observation big data for hydrology,"Chen, Lajiao; Wang, Lizhe",John Wiley & Sons Ltd,2018
+,32,Big Data architecture for intelligent maintenance: a focus on query processing and machine learning algorithms,"Lehmann, Claude",Springer Nature,2020
+,33,XDataExplorer: A Three-Stage Comprehensive Self-Tuning Tool for Big Data Platforms,"Guo, Qing","Elsevier Science B.V., Amsterdam",2022
+,34,New discrimination diagrams for basalts based on big data research,"Zhang, Qi; Sun, Weidong; Zhao, Yong; Yuan, Fanglin; Jiao, Shoutao; Chen, Wanfeng",John Wiley & Sons Ltd,2019
+,35,Big uncertain data of multiple sensors efficient processing with high order multi-hypothesis: an evidence theoretic approach,"Jafari, Hossein; Li, Xiangfang; Qian, Lijun; Aved, Alexander J.; Kroecker, Timothy S.",Inderscience,2018
+,36,A comparison on scalability for batch big data processing on Apache Spark and Apache Flink,"García-Gil, Diego; Ramírez-Gallego, Sergio; García, Salvador; Herrera, Francisco",Springer Nature,2017
+,37,Data behaviours model for Big Data visual analytics,"Zhang, Jinson; Huang, Mao Lin",Inderscience,2016
+,38,"Big Data, 3D Printing Technology, and Industry of the Future","Alabi, Micheal Omotayo",IGI Publising,2017
+,39,A Big Data Framework to Address Building Sum Insured Misestimation,"Roberts, Callum","Elsevier Science B.V., Amsterdam",2023
+,40,Does Medical School Training Relate to Practice? Evidence from Big Data,unknown,Mary Ann Leibert,2015
+,41,Big Data and the Rise of Machines in Financial Markets,unknown,Mary Ann Leibert,2014
+,42,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,43,Big Data As an Enabler of Primary Education,unknown,Mary Ann Leibert,2016
+,44,Big Data Analytics and Visualization in Traffic Monitoring,"Bachechi, Chiara","Elsevier Science B.V., Amsterdam",2022
+,45,Corrigendum to High Frequency Analysis of Macro News Releases on the Foreign Exchange Market: A Survey of Literature [Big Data Res. 2 (1) (2015) 33–48],"Li, Wei","Elsevier Science B.V., Amsterdam",2022
+,46,Unsupervised Tensor Mining for Big Data Practitioners,unknown,Mary Ann Leibert,2016
+,47,An Exercise in Exploring Big Data for Producing Reliable Statistical Information,unknown,Mary Ann Leibert,2016
+,48,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,49,Towards Efficient Energy Utilization Using Big Data Analytics in Smart Cities for Electricity Theft Detection,"Arif, Arooj","Elsevier Science B.V., Amsterdam",2022
+,50,Big data and analytics: a data management perspective in public administration,"Mittal, Prabhat",Inderscience,2020
+,51,Big Data in Forecasting Research: A Literature Review,"Tang, Ling","Elsevier Science B.V., Amsterdam",2022
+,52,Strength in Numbers: Using Big Data to Simplify Sentiment Classification,unknown,Mary Ann Leibert,2017
+,53,A Message from the Editor-in-Chief of Big Data,unknown,Mary Ann Leibert,2017
+,54,Research Dilemmas with Behavioral Big Data,unknown,Mary Ann Leibert,2017
+,55,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,56,Fine Clustering Analysis of Internet Financial Credit Investigation Based on Big Data,"Sun, Jingqi","Elsevier Science B.V., Amsterdam",2022
+,57,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,58,Correction to: Big Data 2016;4:60–66,unknown,Mary Ann Leibert,2016
+,59,Big Data on Robotics,unknown,Mary Ann Leibert,2016
+,60,Combining Human Computing and Machine Learning to Make Sense of Big (Aerial) Data for Disaster Response,unknown,Mary Ann Leibert,2016
+,61,"Interview with Dr. Silvio Carta, Author of the Book Big Data, Code and the Discrete City (Routledge 2019)","Carta, Silvio",Mary Ann Leibert,2019
+,62,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,63,Big data ensemble clinical prediction for healthcare data by using deep learning model,"Rallapalli, Sreekanth; Gondkar, R.R.",Inderscience,2018
+,64,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2019
+,65,Using Big Data to Understand the Human Condition: The Kavli Human Project,unknown,Mary Ann Leibert,2015
+,66,"Big Data, Little Data, and Care Coordination for Medicare Beneficiaries with Medigap Coverage",unknown,Mary Ann Leibert,2015
+,67,Labor Economists Get Their Microscope: Big Data and Labor Market Analysis,unknown,Mary Ann Leibert,2015
+,68,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2020
+,69,"Deep Learning on Big, Sparse, Behavioral Data","De Cnudde, Sofie; Ramon, Yanou; Martens, David; Provost, Foster",Mary Ann Leibert,2019
+,70,National Surveys of Population Health: Big Data Analytics for Mobile Health Monitors,unknown,Mary Ann Leibert,2015
+,71,SOOM: Sort-Based Optimizer for Big Data Multi-Query,"Sahal, Radhya; Khafagy, Mohammed H.; Omara, Fatma A.",Mary Ann Leibert,2020
+,72,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,73,Big Data in Healthcare: Opportunities and Challenges,unknown,Mary Ann Leibert,2015
+,74,Sorting big data by revealed preference with application to college ranking,"Hu, Xingwei",Springer Nature,2020
+,75,Analyzing Big Smart Metering Data Towards Differentiated User Services: A Sublinear Approach,"Pan, E.; Wang, D.; Han, Z.",unknown,2016
+,76,A big data analytics framework for border crossing transportation,"Wang, Haibo; Huo, Da; Xu, Yaquan",Inderscience,2017
+,77,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,78,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2014
+,79,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,80,"Predictive big data analytics for supply chain demand forecasting: methods, applications, and research opportunities","Seyedan, Mahya",Springer Nature,2020
+,81,Agile Big Data Analytics for Web-Based Systems: An Architecture-Centric Approach,"Chen, H.; Kazman, R.; Haziyev, S.",unknown,2016
+,82,A Big Data Application for Energy Consumption Management of Commercial Buildings,"Al Muhaysh, Sarah Abdullah;Al Salem, Thanaa Saad;Al Jaafari, Fatimah Abdullah;Hussain, Al Anoud Saleem Al ShaikhKhwaja, Amir Ali",IGI Publishing,2021
+,83,Clustering Big Spatiotemporal-Interval Data,"Shao, W.; Salim, F. D.; Song, A.; Bouguettaya, A.",unknown,2016
+,84,Leveraging Big Data analytics - case of Kenyan telecoms,"Moturi, Christopher A.; Karuga, Esther W.; Orwa, Daniel O.",Inderscience,2021
+,85,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2015
+,86,Scalable big data modelling,"Patel, Jayesh",Inderscience,2021
+,87,Improved big data stock index prediction using deep learning with CNN and GRU,"Eapen, Jithin; Verma, Abhishek; Bein, Doina",Inderscience,2021
+,88,Analyzing Bangkok city taxi ride: reforming fares for profit sustainability using big data driven model,"Phiboonbanakit, Thananut",Springer Nature,2021
+,89,Impact of rail transit station proximity to commercial property prices: utilizing big data in urban real estate,"Berawi, Mohammed Ali",Springer Nature,2020
+,90,Sleep stage classification using extreme learning machine and particle swarm optimization for healthcare big data,"Surantha, Nico",Springer Nature,2021
+,91,Correction to: Cooperative co‑evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,92,Predictors of outpatients' no-show: big data analytics using apache spark,"Daghistani, Tahani",Springer Nature,2020
+,93,Cooperative co-evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,94,A survey and analysis of intrusion detection models based on CSE-CIC-IDS2018 Big Data,"Leevy, Joffrey L.",Springer Nature,2020
+,95,CoPart: a context-based partitioning technique for big data,"Migliorini, Sara",Springer Nature,2021
+,96,Guest Editorial: Big Data Analytics and the Web,"Sheng, Q. Z.; Vasilakos, A. V.; Yu, Q.; Yao, L.",unknown,2015
+,97,Anomaly detection optimization using big data and deep learning to reduce false-positive,"Al Jallad, Khloud",Springer Nature,2020
+,98,Application of big data analytics and organizational performance: the mediating role of knowledge management practices,"Shabbir, Muhammad Qasim",Springer Nature,2020
+,99,Predictive analytics using big data for increased customer loyalty: Syriatel Telecom Company case study,"Wassouf, Wissam Nazeer",Springer Nature,2020
+,100,Mitigating Bias in Big Data for Transportation,"Griffin, Greg P.",Springer Nature,2020
+,1,Call for Special Issue Papers: Soft Computing Models for Big Data and Internet of Things,"Chilamkurti, Naveen; Paul, Anand; Kumar, Akshi",Mary Ann Leibert,2020
+,2,Atmospheric and ecosystem big data providing key contributions in reaching United Nations' Sustainable Development Goals,"Kulmala, Markku; Lintunen, Anna; Ylivinkka, Ilona; Mukkala, Janne; Rantanen, Rosa; Kujansuu, Joni; Petäjä, Tuukka; Lappalainen, Hanna K.",John Wiley & Sons Ltd,2021
+,3,Earth observation and geospatial big data management and engagement of stakeholders in Hungary to support the SDGs,"Mihály, Szabolcs; Remetey-Fülöpp, Gábor; Kristóf, Dániel; Czinkóczky, Anna; Palya, Tamás; Pásztor, László; Rudan, Pál; Szabó, György; Zentai, László",John Wiley & Sons Ltd,2021
+,4,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,5,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,6,A Novel Big Data Approach for Record and Represent Compliance in the Covid-19 Era,"Giacalone, M.","Elsevier Science B.V., Amsterdam",2022
+,7,Big Data 2.0: Cataclysm or Catalyst?,unknown,Mary Ann Leibert,2014
+,8,Curating Big Data Made Simple: Perspectives from Scientific Communities,unknown,Mary Ann Leibert,2014
+,9,The Uses of Big Data in Cities,unknown,Mary Ann Leibert,2014
+,10,Towards quantifying psychiatric diagnosis using machine learning algorithms and big fMRI data,"Saeed, Fahad",Springer Nature,2018
+,11,STGI：a spatio-temporal grid index model for marine big data,"Qu, Tengteng; Wang, Lizhe; Yu, Jian; Yan, Jining; Xu, Guilin; Li, Meng; Cheng, Chengqi; Hou, Kaihua; Chen, Bo",John Wiley & Sons Ltd,2020
+,12,Why Big Data = Big Deal,unknown,Mary Ann Leibert,2014
+,13,Optimizing Sentinel-2 image selection in a Big Data context,"Kempeneers, P.; Soille, P.",John Wiley & Sons Ltd,2017
+,14,Furthest-Pair-Based Binary Search Tree for Speeding Big Data Classification Using K-Nearest Neighbors,"Hassanat, A. B. A.",Mary Ann Leibert,2018
+,15,Big Data and Predictive Analytics in Health Care,unknown,Mary Ann Leibert,2014
+,16,Big Data for Social Good,unknown,Mary Ann Leibert,2015
+,17,Can Big Data Machines Analyze Stock Market Sentiment?,unknown,Mary Ann Leibert,2014
+,18,Big Data Literature Search,unknown,Mary Ann Leibert,2014
+,19,A Big Data Guide to Understanding Climate Change: The Case for Theory-Guided Data Science,unknown,Mary Ann Leibert,2014
+,20,Common Big Data Challenges and How to Overcome Them,unknown,Mary Ann Leibert,2014
+,21,TV Audience Measurement with Big Data,unknown,Mary Ann Leibert,2014
+,22,The U.S. Army Person-Event Data Environment: A MilitaryÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Civilian Big Data Enterprise,unknown,Mary Ann Leibert,2015
+,23,"Comparative study of big data of global adakites and mineralization-related granite in the Geza arc metallogenic belt, northwest Yunnan, Southwest China","Xuelong, Liu; Wenchang, Li; Qi, Zhang; Na, Zhang; Changzhen, Zhang; Ying, Luo; Shuaishuai, Wang; Fucheng, Yang; Jianhang, Chen; Zhenhuan, Li",John Wiley & Sons Ltd,2018
+,24,A new big data approach based on geoecological information-modeling system,"Varotsos, Costas A.; Krapivin, Vladimir F.",John Wiley & Sons Ltd,2017
+,25,Big data actionable intelligence architecture,"Ma, Tian J.",Springer Nature,2020
+,26,Exploring relationships between medical college rankings and performance with big data,"Rao, A.",Springer Nature,2019
+,27,Evaluating associative classification algorithms for Big Data,"Padillo, Francisco",Springer Nature,2019
+,28,Study on the use of different quality measures within a multi-objective evolutionary algorithm approach for emerging pattern mining in big data environments,"García-Vico, Ángel",Springer Nature,2019
+,29,Big Data for the Social Good: The Drought Early-Warning Experience Report,"Tamburri, Damian A.",unknown,2022
+,30,A GIS-based analytical framework for evaluating the effect of COVID-19 on the restaurant industry with big data,"Wang, Siqin",John Wiley & Sons Ltd,2023
+,31,Recent advance in earth observation big data for hydrology,"Chen, Lajiao; Wang, Lizhe",John Wiley & Sons Ltd,2018
+,32,Big Data architecture for intelligent maintenance: a focus on query processing and machine learning algorithms,"Lehmann, Claude",Springer Nature,2020
+,33,XDataExplorer: A Three-Stage Comprehensive Self-Tuning Tool for Big Data Platforms,"Guo, Qing","Elsevier Science B.V., Amsterdam",2022
+,34,New discrimination diagrams for basalts based on big data research,"Zhang, Qi; Sun, Weidong; Zhao, Yong; Yuan, Fanglin; Jiao, Shoutao; Chen, Wanfeng",John Wiley & Sons Ltd,2019
+,35,Big uncertain data of multiple sensors efficient processing with high order multi-hypothesis: an evidence theoretic approach,"Jafari, Hossein; Li, Xiangfang; Qian, Lijun; Aved, Alexander J.; Kroecker, Timothy S.",Inderscience,2018
+,36,A comparison on scalability for batch big data processing on Apache Spark and Apache Flink,"García-Gil, Diego; Ramírez-Gallego, Sergio; García, Salvador; Herrera, Francisco",Springer Nature,2017
+,37,Data behaviours model for Big Data visual analytics,"Zhang, Jinson; Huang, Mao Lin",Inderscience,2016
+,38,"Big Data, 3D Printing Technology, and Industry of the Future","Alabi, Micheal Omotayo",IGI Publising,2017
+,39,A Big Data Framework to Address Building Sum Insured Misestimation,"Roberts, Callum","Elsevier Science B.V., Amsterdam",2023
+,40,Does Medical School Training Relate to Practice? Evidence from Big Data,unknown,Mary Ann Leibert,2015
+,41,Big Data and the Rise of Machines in Financial Markets,unknown,Mary Ann Leibert,2014
+,42,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,43,Big Data As an Enabler of Primary Education,unknown,Mary Ann Leibert,2016
+,44,Big Data Analytics and Visualization in Traffic Monitoring,"Bachechi, Chiara","Elsevier Science B.V., Amsterdam",2022
+,45,Corrigendum to High Frequency Analysis of Macro News Releases on the Foreign Exchange Market: A Survey of Literature [Big Data Res. 2 (1) (2015) 33–48],"Li, Wei","Elsevier Science B.V., Amsterdam",2022
+,46,Unsupervised Tensor Mining for Big Data Practitioners,unknown,Mary Ann Leibert,2016
+,47,An Exercise in Exploring Big Data for Producing Reliable Statistical Information,unknown,Mary Ann Leibert,2016
+,48,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,49,Towards Efficient Energy Utilization Using Big Data Analytics in Smart Cities for Electricity Theft Detection,"Arif, Arooj","Elsevier Science B.V., Amsterdam",2022
+,50,Big data and analytics: a data management perspective in public administration,"Mittal, Prabhat",Inderscience,2020
+,51,Big Data in Forecasting Research: A Literature Review,"Tang, Ling","Elsevier Science B.V., Amsterdam",2022
+,52,Strength in Numbers: Using Big Data to Simplify Sentiment Classification,unknown,Mary Ann Leibert,2017
+,53,A Message from the Editor-in-Chief of Big Data,unknown,Mary Ann Leibert,2017
+,54,Research Dilemmas with Behavioral Big Data,unknown,Mary Ann Leibert,2017
+,55,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,56,Fine Clustering Analysis of Internet Financial Credit Investigation Based on Big Data,"Sun, Jingqi","Elsevier Science B.V., Amsterdam",2022
+,57,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,58,Correction to: Big Data 2016;4:60–66,unknown,Mary Ann Leibert,2016
+,59,Big Data on Robotics,unknown,Mary Ann Leibert,2016
+,60,Combining Human Computing and Machine Learning to Make Sense of Big (Aerial) Data for Disaster Response,unknown,Mary Ann Leibert,2016
+,61,"Interview with Dr. Silvio Carta, Author of the Book Big Data, Code and the Discrete City (Routledge 2019)","Carta, Silvio",Mary Ann Leibert,2019
+,62,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,63,Big data ensemble clinical prediction for healthcare data by using deep learning model,"Rallapalli, Sreekanth; Gondkar, R.R.",Inderscience,2018
+,64,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2019
+,65,Using Big Data to Understand the Human Condition: The Kavli Human Project,unknown,Mary Ann Leibert,2015
+,66,"Big Data, Little Data, and Care Coordination for Medicare Beneficiaries with Medigap Coverage",unknown,Mary Ann Leibert,2015
+,67,Labor Economists Get Their Microscope: Big Data and Labor Market Analysis,unknown,Mary Ann Leibert,2015
+,68,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2020
+,69,"Deep Learning on Big, Sparse, Behavioral Data","De Cnudde, Sofie; Ramon, Yanou; Martens, David; Provost, Foster",Mary Ann Leibert,2019
+,70,National Surveys of Population Health: Big Data Analytics for Mobile Health Monitors,unknown,Mary Ann Leibert,2015
+,71,SOOM: Sort-Based Optimizer for Big Data Multi-Query,"Sahal, Radhya; Khafagy, Mohammed H.; Omara, Fatma A.",Mary Ann Leibert,2020
+,72,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,73,Big Data in Healthcare: Opportunities and Challenges,unknown,Mary Ann Leibert,2015
+,74,Sorting big data by revealed preference with application to college ranking,"Hu, Xingwei",Springer Nature,2020
+,75,Analyzing Big Smart Metering Data Towards Differentiated User Services: A Sublinear Approach,"Pan, E.; Wang, D.; Han, Z.",unknown,2016
+,76,A big data analytics framework for border crossing transportation,"Wang, Haibo; Huo, Da; Xu, Yaquan",Inderscience,2017
+,77,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,78,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2014
+,79,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,80,"Predictive big data analytics for supply chain demand forecasting: methods, applications, and research opportunities","Seyedan, Mahya",Springer Nature,2020
+,81,Agile Big Data Analytics for Web-Based Systems: An Architecture-Centric Approach,"Chen, H.; Kazman, R.; Haziyev, S.",unknown,2016
+,82,A Big Data Application for Energy Consumption Management of Commercial Buildings,"Al Muhaysh, Sarah Abdullah;Al Salem, Thanaa Saad;Al Jaafari, Fatimah Abdullah;Hussain, Al Anoud Saleem Al ShaikhKhwaja, Amir Ali",IGI Publishing,2021
+,83,Clustering Big Spatiotemporal-Interval Data,"Shao, W.; Salim, F. D.; Song, A.; Bouguettaya, A.",unknown,2016
+,84,Leveraging Big Data analytics - case of Kenyan telecoms,"Moturi, Christopher A.; Karuga, Esther W.; Orwa, Daniel O.",Inderscience,2021
+,85,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2015
+,86,Scalable big data modelling,"Patel, Jayesh",Inderscience,2021
+,87,Improved big data stock index prediction using deep learning with CNN and GRU,"Eapen, Jithin; Verma, Abhishek; Bein, Doina",Inderscience,2021
+,88,Analyzing Bangkok city taxi ride: reforming fares for profit sustainability using big data driven model,"Phiboonbanakit, Thananut",Springer Nature,2021
+,89,Impact of rail transit station proximity to commercial property prices: utilizing big data in urban real estate,"Berawi, Mohammed Ali",Springer Nature,2020
+,90,Sleep stage classification using extreme learning machine and particle swarm optimization for healthcare big data,"Surantha, Nico",Springer Nature,2021
+,91,Correction to: Cooperative co‑evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,92,Predictors of outpatients' no-show: big data analytics using apache spark,"Daghistani, Tahani",Springer Nature,2020
+,93,Cooperative co-evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,94,A survey and analysis of intrusion detection models based on CSE-CIC-IDS2018 Big Data,"Leevy, Joffrey L.",Springer Nature,2020
+,95,CoPart: a context-based partitioning technique for big data,"Migliorini, Sara",Springer Nature,2021
+,96,Guest Editorial: Big Data Analytics and the Web,"Sheng, Q. Z.; Vasilakos, A. V.; Yu, Q.; Yao, L.",unknown,2015
+,97,Anomaly detection optimization using big data and deep learning to reduce false-positive,"Al Jallad, Khloud",Springer Nature,2020
+,98,Application of big data analytics and organizational performance: the mediating role of knowledge management practices,"Shabbir, Muhammad Qasim",Springer Nature,2020
+,99,Predictive analytics using big data for increased customer loyalty: Syriatel Telecom Company case study,"Wassouf, Wissam Nazeer",Springer Nature,2020
+,100,Mitigating Bias in Big Data for Transportation,"Griffin, Greg P.",Springer Nature,2020
+,1,Call for Special Issue Papers: Soft Computing Models for Big Data and Internet of Things,"Chilamkurti, Naveen; Paul, Anand; Kumar, Akshi",Mary Ann Leibert,2020
+,2,Atmospheric and ecosystem big data providing key contributions in reaching United Nations' Sustainable Development Goals,"Kulmala, Markku; Lintunen, Anna; Ylivinkka, Ilona; Mukkala, Janne; Rantanen, Rosa; Kujansuu, Joni; Petäjä, Tuukka; Lappalainen, Hanna K.",John Wiley & Sons Ltd,2021
+,3,Earth observation and geospatial big data management and engagement of stakeholders in Hungary to support the SDGs,"Mihály, Szabolcs; Remetey-Fülöpp, Gábor; Kristóf, Dániel; Czinkóczky, Anna; Palya, Tamás; Pásztor, László; Rudan, Pál; Szabó, György; Zentai, László",John Wiley & Sons Ltd,2021
+,4,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,5,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,6,A Novel Big Data Approach for Record and Represent Compliance in the Covid-19 Era,"Giacalone, M.","Elsevier Science B.V., Amsterdam",2022
+,7,Big Data 2.0: Cataclysm or Catalyst?,unknown,Mary Ann Leibert,2014
+,8,Curating Big Data Made Simple: Perspectives from Scientific Communities,unknown,Mary Ann Leibert,2014
+,9,The Uses of Big Data in Cities,unknown,Mary Ann Leibert,2014
+,10,Towards quantifying psychiatric diagnosis using machine learning algorithms and big fMRI data,"Saeed, Fahad",Springer Nature,2018
+,11,STGI：a spatio-temporal grid index model for marine big data,"Qu, Tengteng; Wang, Lizhe; Yu, Jian; Yan, Jining; Xu, Guilin; Li, Meng; Cheng, Chengqi; Hou, Kaihua; Chen, Bo",John Wiley & Sons Ltd,2020
+,12,Why Big Data = Big Deal,unknown,Mary Ann Leibert,2014
+,13,Optimizing Sentinel-2 image selection in a Big Data context,"Kempeneers, P.; Soille, P.",John Wiley & Sons Ltd,2017
+,14,Furthest-Pair-Based Binary Search Tree for Speeding Big Data Classification Using K-Nearest Neighbors,"Hassanat, A. B. A.",Mary Ann Leibert,2018
+,15,Big Data and Predictive Analytics in Health Care,unknown,Mary Ann Leibert,2014
+,16,Big Data for Social Good,unknown,Mary Ann Leibert,2015
+,17,Can Big Data Machines Analyze Stock Market Sentiment?,unknown,Mary Ann Leibert,2014
+,18,Big Data Literature Search,unknown,Mary Ann Leibert,2014
+,19,A Big Data Guide to Understanding Climate Change: The Case for Theory-Guided Data Science,unknown,Mary Ann Leibert,2014
+,20,Common Big Data Challenges and How to Overcome Them,unknown,Mary Ann Leibert,2014
+,21,TV Audience Measurement with Big Data,unknown,Mary Ann Leibert,2014
+,22,The U.S. Army Person-Event Data Environment: A MilitaryÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Civilian Big Data Enterprise,unknown,Mary Ann Leibert,2015
+,23,"Comparative study of big data of global adakites and mineralization-related granite in the Geza arc metallogenic belt, northwest Yunnan, Southwest China","Xuelong, Liu; Wenchang, Li; Qi, Zhang; Na, Zhang; Changzhen, Zhang; Ying, Luo; Shuaishuai, Wang; Fucheng, Yang; Jianhang, Chen; Zhenhuan, Li",John Wiley & Sons Ltd,2018
+,24,A new big data approach based on geoecological information-modeling system,"Varotsos, Costas A.; Krapivin, Vladimir F.",John Wiley & Sons Ltd,2017
+,25,Big data actionable intelligence architecture,"Ma, Tian J.",Springer Nature,2020
+,26,Exploring relationships between medical college rankings and performance with big data,"Rao, A.",Springer Nature,2019
+,27,Evaluating associative classification algorithms for Big Data,"Padillo, Francisco",Springer Nature,2019
+,28,Study on the use of different quality measures within a multi-objective evolutionary algorithm approach for emerging pattern mining in big data environments,"García-Vico, Ángel",Springer Nature,2019
+,29,Big Data for the Social Good: The Drought Early-Warning Experience Report,"Tamburri, Damian A.",unknown,2022
+,30,A GIS-based analytical framework for evaluating the effect of COVID-19 on the restaurant industry with big data,"Wang, Siqin",John Wiley & Sons Ltd,2023
+,31,Recent advance in earth observation big data for hydrology,"Chen, Lajiao; Wang, Lizhe",John Wiley & Sons Ltd,2018
+,32,Big Data architecture for intelligent maintenance: a focus on query processing and machine learning algorithms,"Lehmann, Claude",Springer Nature,2020
+,33,XDataExplorer: A Three-Stage Comprehensive Self-Tuning Tool for Big Data Platforms,"Guo, Qing","Elsevier Science B.V., Amsterdam",2022
+,34,New discrimination diagrams for basalts based on big data research,"Zhang, Qi; Sun, Weidong; Zhao, Yong; Yuan, Fanglin; Jiao, Shoutao; Chen, Wanfeng",John Wiley & Sons Ltd,2019
+,35,Big uncertain data of multiple sensors efficient processing with high order multi-hypothesis: an evidence theoretic approach,"Jafari, Hossein; Li, Xiangfang; Qian, Lijun; Aved, Alexander J.; Kroecker, Timothy S.",Inderscience,2018
+,36,A comparison on scalability for batch big data processing on Apache Spark and Apache Flink,"García-Gil, Diego; Ramírez-Gallego, Sergio; García, Salvador; Herrera, Francisco",Springer Nature,2017
+,37,Data behaviours model for Big Data visual analytics,"Zhang, Jinson; Huang, Mao Lin",Inderscience,2016
+,38,"Big Data, 3D Printing Technology, and Industry of the Future","Alabi, Micheal Omotayo",IGI Publising,2017
+,39,A Big Data Framework to Address Building Sum Insured Misestimation,"Roberts, Callum","Elsevier Science B.V., Amsterdam",2023
+,40,Does Medical School Training Relate to Practice? Evidence from Big Data,unknown,Mary Ann Leibert,2015
+,41,Big Data and the Rise of Machines in Financial Markets,unknown,Mary Ann Leibert,2014
+,42,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,43,Big Data As an Enabler of Primary Education,unknown,Mary Ann Leibert,2016
+,44,Big Data Analytics and Visualization in Traffic Monitoring,"Bachechi, Chiara","Elsevier Science B.V., Amsterdam",2022
+,45,Corrigendum to High Frequency Analysis of Macro News Releases on the Foreign Exchange Market: A Survey of Literature [Big Data Res. 2 (1) (2015) 33–48],"Li, Wei","Elsevier Science B.V., Amsterdam",2022
+,46,Unsupervised Tensor Mining for Big Data Practitioners,unknown,Mary Ann Leibert,2016
+,47,An Exercise in Exploring Big Data for Producing Reliable Statistical Information,unknown,Mary Ann Leibert,2016
+,48,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,49,Towards Efficient Energy Utilization Using Big Data Analytics in Smart Cities for Electricity Theft Detection,"Arif, Arooj","Elsevier Science B.V., Amsterdam",2022
+,50,Big data and analytics: a data management perspective in public administration,"Mittal, Prabhat",Inderscience,2020
+,51,Big Data in Forecasting Research: A Literature Review,"Tang, Ling","Elsevier Science B.V., Amsterdam",2022
+,52,Strength in Numbers: Using Big Data to Simplify Sentiment Classification,unknown,Mary Ann Leibert,2017
+,53,A Message from the Editor-in-Chief of Big Data,unknown,Mary Ann Leibert,2017
+,54,Research Dilemmas with Behavioral Big Data,unknown,Mary Ann Leibert,2017
+,55,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,56,Fine Clustering Analysis of Internet Financial Credit Investigation Based on Big Data,"Sun, Jingqi","Elsevier Science B.V., Amsterdam",2022
+,57,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,58,Correction to: Big Data 2016;4:60–66,unknown,Mary Ann Leibert,2016
+,59,Big Data on Robotics,unknown,Mary Ann Leibert,2016
+,60,Combining Human Computing and Machine Learning to Make Sense of Big (Aerial) Data for Disaster Response,unknown,Mary Ann Leibert,2016
+,61,"Interview with Dr. Silvio Carta, Author of the Book Big Data, Code and the Discrete City (Routledge 2019)","Carta, Silvio",Mary Ann Leibert,2019
+,62,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,63,Big data ensemble clinical prediction for healthcare data by using deep learning model,"Rallapalli, Sreekanth; Gondkar, R.R.",Inderscience,2018
+,64,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2019
+,65,Using Big Data to Understand the Human Condition: The Kavli Human Project,unknown,Mary Ann Leibert,2015
+,66,"Big Data, Little Data, and Care Coordination for Medicare Beneficiaries with Medigap Coverage",unknown,Mary Ann Leibert,2015
+,67,Labor Economists Get Their Microscope: Big Data and Labor Market Analysis,unknown,Mary Ann Leibert,2015
+,68,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2020
+,69,"Deep Learning on Big, Sparse, Behavioral Data","De Cnudde, Sofie; Ramon, Yanou; Martens, David; Provost, Foster",Mary Ann Leibert,2019
+,70,National Surveys of Population Health: Big Data Analytics for Mobile Health Monitors,unknown,Mary Ann Leibert,2015
+,71,SOOM: Sort-Based Optimizer for Big Data Multi-Query,"Sahal, Radhya; Khafagy, Mohammed H.; Omara, Fatma A.",Mary Ann Leibert,2020
+,72,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,73,Big Data in Healthcare: Opportunities and Challenges,unknown,Mary Ann Leibert,2015
+,74,Sorting big data by revealed preference with application to college ranking,"Hu, Xingwei",Springer Nature,2020
+,75,Analyzing Big Smart Metering Data Towards Differentiated User Services: A Sublinear Approach,"Pan, E.; Wang, D.; Han, Z.",unknown,2016
+,76,A big data analytics framework for border crossing transportation,"Wang, Haibo; Huo, Da; Xu, Yaquan",Inderscience,2017
+,77,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,78,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2014
+,79,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,80,"Predictive big data analytics for supply chain demand forecasting: methods, applications, and research opportunities","Seyedan, Mahya",Springer Nature,2020
+,81,Agile Big Data Analytics for Web-Based Systems: An Architecture-Centric Approach,"Chen, H.; Kazman, R.; Haziyev, S.",unknown,2016
+,82,A Big Data Application for Energy Consumption Management of Commercial Buildings,"Al Muhaysh, Sarah Abdullah;Al Salem, Thanaa Saad;Al Jaafari, Fatimah Abdullah;Hussain, Al Anoud Saleem Al ShaikhKhwaja, Amir Ali",IGI Publishing,2021
+,83,Clustering Big Spatiotemporal-Interval Data,"Shao, W.; Salim, F. D.; Song, A.; Bouguettaya, A.",unknown,2016
+,84,Leveraging Big Data analytics - case of Kenyan telecoms,"Moturi, Christopher A.; Karuga, Esther W.; Orwa, Daniel O.",Inderscience,2021
+,85,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2015
+,86,Scalable big data modelling,"Patel, Jayesh",Inderscience,2021
+,87,Improved big data stock index prediction using deep learning with CNN and GRU,"Eapen, Jithin; Verma, Abhishek; Bein, Doina",Inderscience,2021
+,88,Analyzing Bangkok city taxi ride: reforming fares for profit sustainability using big data driven model,"Phiboonbanakit, Thananut",Springer Nature,2021
+,89,Impact of rail transit station proximity to commercial property prices: utilizing big data in urban real estate,"Berawi, Mohammed Ali",Springer Nature,2020
+,90,Sleep stage classification using extreme learning machine and particle swarm optimization for healthcare big data,"Surantha, Nico",Springer Nature,2021
+,91,Correction to: Cooperative co‑evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,92,Predictors of outpatients' no-show: big data analytics using apache spark,"Daghistani, Tahani",Springer Nature,2020
+,93,Cooperative co-evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,94,A survey and analysis of intrusion detection models based on CSE-CIC-IDS2018 Big Data,"Leevy, Joffrey L.",Springer Nature,2020
+,95,CoPart: a context-based partitioning technique for big data,"Migliorini, Sara",Springer Nature,2021
+,96,Guest Editorial: Big Data Analytics and the Web,"Sheng, Q. Z.; Vasilakos, A. V.; Yu, Q.; Yao, L.",unknown,2015
+,97,Anomaly detection optimization using big data and deep learning to reduce false-positive,"Al Jallad, Khloud",Springer Nature,2020
+,98,Application of big data analytics and organizational performance: the mediating role of knowledge management practices,"Shabbir, Muhammad Qasim",Springer Nature,2020
+,99,Predictive analytics using big data for increased customer loyalty: Syriatel Telecom Company case study,"Wassouf, Wissam Nazeer",Springer Nature,2020
+,100,Mitigating Bias in Big Data for Transportation,"Griffin, Greg P.",Springer Nature,2020
+,1,Call for Special Issue Papers: Soft Computing Models for Big Data and Internet of Things,"Chilamkurti, Naveen; Paul, Anand; Kumar, Akshi",Mary Ann Leibert,2020
+,2,Atmospheric and ecosystem big data providing key contributions in reaching United Nations' Sustainable Development Goals,"Kulmala, Markku; Lintunen, Anna; Ylivinkka, Ilona; Mukkala, Janne; Rantanen, Rosa; Kujansuu, Joni; Petäjä, Tuukka; Lappalainen, Hanna K.",John Wiley & Sons Ltd,2021
+,3,Earth observation and geospatial big data management and engagement of stakeholders in Hungary to support the SDGs,"Mihály, Szabolcs; Remetey-Fülöpp, Gábor; Kristóf, Dániel; Czinkóczky, Anna; Palya, Tamás; Pásztor, László; Rudan, Pál; Szabó, György; Zentai, László",John Wiley & Sons Ltd,2021
+,4,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,5,Call for Special Issue Papers: Big Data Analytics for Agricultural Disaster Management,"Balamurugan, S.; Muthu, Bala Anand; Peng, Sheng-Lung; Wahab, Mohd Helmy Abd",Mary Ann Leibert,2020
+,6,A Novel Big Data Approach for Record and Represent Compliance in the Covid-19 Era,"Giacalone, M.","Elsevier Science B.V., Amsterdam",2022
+,7,Big Data 2.0: Cataclysm or Catalyst?,unknown,Mary Ann Leibert,2014
+,8,Curating Big Data Made Simple: Perspectives from Scientific Communities,unknown,Mary Ann Leibert,2014
+,9,The Uses of Big Data in Cities,unknown,Mary Ann Leibert,2014
+,10,Towards quantifying psychiatric diagnosis using machine learning algorithms and big fMRI data,"Saeed, Fahad",Springer Nature,2018
+,11,STGI：a spatio-temporal grid index model for marine big data,"Qu, Tengteng; Wang, Lizhe; Yu, Jian; Yan, Jining; Xu, Guilin; Li, Meng; Cheng, Chengqi; Hou, Kaihua; Chen, Bo",John Wiley & Sons Ltd,2020
+,12,Why Big Data = Big Deal,unknown,Mary Ann Leibert,2014
+,13,Optimizing Sentinel-2 image selection in a Big Data context,"Kempeneers, P.; Soille, P.",John Wiley & Sons Ltd,2017
+,14,Furthest-Pair-Based Binary Search Tree for Speeding Big Data Classification Using K-Nearest Neighbors,"Hassanat, A. B. A.",Mary Ann Leibert,2018
+,15,Big Data and Predictive Analytics in Health Care,unknown,Mary Ann Leibert,2014
+,16,Big Data for Social Good,unknown,Mary Ann Leibert,2015
+,17,Can Big Data Machines Analyze Stock Market Sentiment?,unknown,Mary Ann Leibert,2014
+,18,Big Data Literature Search,unknown,Mary Ann Leibert,2014
+,19,A Big Data Guide to Understanding Climate Change: The Case for Theory-Guided Data Science,unknown,Mary Ann Leibert,2014
+,20,Common Big Data Challenges and How to Overcome Them,unknown,Mary Ann Leibert,2014
+,21,TV Audience Measurement with Big Data,unknown,Mary Ann Leibert,2014
+,22,The U.S. Army Person-Event Data Environment: A MilitaryÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Civilian Big Data Enterprise,unknown,Mary Ann Leibert,2015
+,23,"Comparative study of big data of global adakites and mineralization-related granite in the Geza arc metallogenic belt, northwest Yunnan, Southwest China","Xuelong, Liu; Wenchang, Li; Qi, Zhang; Na, Zhang; Changzhen, Zhang; Ying, Luo; Shuaishuai, Wang; Fucheng, Yang; Jianhang, Chen; Zhenhuan, Li",John Wiley & Sons Ltd,2018
+,24,A new big data approach based on geoecological information-modeling system,"Varotsos, Costas A.; Krapivin, Vladimir F.",John Wiley & Sons Ltd,2017
+,25,Big data actionable intelligence architecture,"Ma, Tian J.",Springer Nature,2020
+,26,Exploring relationships between medical college rankings and performance with big data,"Rao, A.",Springer Nature,2019
+,27,Evaluating associative classification algorithms for Big Data,"Padillo, Francisco",Springer Nature,2019
+,28,Study on the use of different quality measures within a multi-objective evolutionary algorithm approach for emerging pattern mining in big data environments,"García-Vico, Ángel",Springer Nature,2019
+,29,Big Data for the Social Good: The Drought Early-Warning Experience Report,"Tamburri, Damian A.",unknown,2022
+,30,A GIS-based analytical framework for evaluating the effect of COVID-19 on the restaurant industry with big data,"Wang, Siqin",John Wiley & Sons Ltd,2023
+,31,Recent advance in earth observation big data for hydrology,"Chen, Lajiao; Wang, Lizhe",John Wiley & Sons Ltd,2018
+,32,Big Data architecture for intelligent maintenance: a focus on query processing and machine learning algorithms,"Lehmann, Claude",Springer Nature,2020
+,33,XDataExplorer: A Three-Stage Comprehensive Self-Tuning Tool for Big Data Platforms,"Guo, Qing","Elsevier Science B.V., Amsterdam",2022
+,34,New discrimination diagrams for basalts based on big data research,"Zhang, Qi; Sun, Weidong; Zhao, Yong; Yuan, Fanglin; Jiao, Shoutao; Chen, Wanfeng",John Wiley & Sons Ltd,2019
+,35,Big uncertain data of multiple sensors efficient processing with high order multi-hypothesis: an evidence theoretic approach,"Jafari, Hossein; Li, Xiangfang; Qian, Lijun; Aved, Alexander J.; Kroecker, Timothy S.",Inderscience,2018
+,36,A comparison on scalability for batch big data processing on Apache Spark and Apache Flink,"García-Gil, Diego; Ramírez-Gallego, Sergio; García, Salvador; Herrera, Francisco",Springer Nature,2017
+,37,Data behaviours model for Big Data visual analytics,"Zhang, Jinson; Huang, Mao Lin",Inderscience,2016
+,38,"Big Data, 3D Printing Technology, and Industry of the Future","Alabi, Micheal Omotayo",IGI Publising,2017
+,39,A Big Data Framework to Address Building Sum Insured Misestimation,"Roberts, Callum","Elsevier Science B.V., Amsterdam",2023
+,40,Does Medical School Training Relate to Practice? Evidence from Big Data,unknown,Mary Ann Leibert,2015
+,41,Big Data and the Rise of Machines in Financial Markets,unknown,Mary Ann Leibert,2014
+,42,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,43,Big Data As an Enabler of Primary Education,unknown,Mary Ann Leibert,2016
+,44,Big Data Analytics and Visualization in Traffic Monitoring,"Bachechi, Chiara","Elsevier Science B.V., Amsterdam",2022
+,45,Corrigendum to High Frequency Analysis of Macro News Releases on the Foreign Exchange Market: A Survey of Literature [Big Data Res. 2 (1) (2015) 33–48],"Li, Wei","Elsevier Science B.V., Amsterdam",2022
+,46,Unsupervised Tensor Mining for Big Data Practitioners,unknown,Mary Ann Leibert,2016
+,47,An Exercise in Exploring Big Data for Producing Reliable Statistical Information,unknown,Mary Ann Leibert,2016
+,48,Big data (lost) in the cloud,"Di Martino, Beniamino; Aversa, Rocco; Cretella, Giuseppina; Esposito, Antonio; Kołodziej, Joanna",Inderscience,2014
+,49,Towards Efficient Energy Utilization Using Big Data Analytics in Smart Cities for Electricity Theft Detection,"Arif, Arooj","Elsevier Science B.V., Amsterdam",2022
+,50,Big data and analytics: a data management perspective in public administration,"Mittal, Prabhat",Inderscience,2020
+,51,Big Data in Forecasting Research: A Literature Review,"Tang, Ling","Elsevier Science B.V., Amsterdam",2022
+,52,Strength in Numbers: Using Big Data to Simplify Sentiment Classification,unknown,Mary Ann Leibert,2017
+,53,A Message from the Editor-in-Chief of Big Data,unknown,Mary Ann Leibert,2017
+,54,Research Dilemmas with Behavioral Big Data,unknown,Mary Ann Leibert,2017
+,55,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,56,Fine Clustering Analysis of Internet Financial Credit Investigation Based on Big Data,"Sun, Jingqi","Elsevier Science B.V., Amsterdam",2022
+,57,Call for Papers: Special Issue on Computational Propaganda and Political Big Data,unknown,Mary Ann Leibert,2017
+,58,Correction to: Big Data 2016;4:60–66,unknown,Mary Ann Leibert,2016
+,59,Big Data on Robotics,unknown,Mary Ann Leibert,2016
+,60,Combining Human Computing and Machine Learning to Make Sense of Big (Aerial) Data for Disaster Response,unknown,Mary Ann Leibert,2016
+,61,"Interview with Dr. Silvio Carta, Author of the Book Big Data, Code and the Discrete City (Routledge 2019)","Carta, Silvio",Mary Ann Leibert,2019
+,62,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,63,Big data ensemble clinical prediction for healthcare data by using deep learning model,"Rallapalli, Sreekanth; Gondkar, R.R.",Inderscience,2018
+,64,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2019
+,65,Using Big Data to Understand the Human Condition: The Kavli Human Project,unknown,Mary Ann Leibert,2015
+,66,"Big Data, Little Data, and Care Coordination for Medicare Beneficiaries with Medigap Coverage",unknown,Mary Ann Leibert,2015
+,67,Labor Economists Get Their Microscope: Big Data and Labor Market Analysis,unknown,Mary Ann Leibert,2015
+,68,Call for Special Issue Papers: Big Data in Business,"Nobanee, Haitham",Mary Ann Leibert,2020
+,69,"Deep Learning on Big, Sparse, Behavioral Data","De Cnudde, Sofie; Ramon, Yanou; Martens, David; Provost, Foster",Mary Ann Leibert,2019
+,70,National Surveys of Population Health: Big Data Analytics for Mobile Health Monitors,unknown,Mary Ann Leibert,2015
+,71,SOOM: Sort-Based Optimizer for Big Data Multi-Query,"Sahal, Radhya; Khafagy, Mohammed H.; Omara, Fatma A.",Mary Ann Leibert,2020
+,72,Call for Papers: Special Issue on Big Data in Robotics,unknown,Mary Ann Leibert,2016
+,73,Big Data in Healthcare: Opportunities and Challenges,unknown,Mary Ann Leibert,2015
+,74,Sorting big data by revealed preference with application to college ranking,"Hu, Xingwei",Springer Nature,2020
+,75,Analyzing Big Smart Metering Data Towards Differentiated User Services: A Sublinear Approach,"Pan, E.; Wang, D.; Han, Z.",unknown,2016
+,76,A big data analytics framework for border crossing transportation,"Wang, Haibo; Huo, Da; Xu, Yaquan",Inderscience,2017
+,77,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,78,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2014
+,79,"Health big data analytics: current perspectives, challenges and potential solutions","Kuo, Mu-Hsing; Sahama, Tony; Kushniruk, Andre W.; Borycki, Elizabeth M.; Grunwell, Daniel K.",Inderscience,2014
+,80,"Predictive big data analytics for supply chain demand forecasting: methods, applications, and research opportunities","Seyedan, Mahya",Springer Nature,2020
+,81,Agile Big Data Analytics for Web-Based Systems: An Architecture-Centric Approach,"Chen, H.; Kazman, R.; Haziyev, S.",unknown,2016
+,82,A Big Data Application for Energy Consumption Management of Commercial Buildings,"Al Muhaysh, Sarah Abdullah;Al Salem, Thanaa Saad;Al Jaafari, Fatimah Abdullah;Hussain, Al Anoud Saleem Al ShaikhKhwaja, Amir Ali",IGI Publishing,2021
+,83,Clustering Big Spatiotemporal-Interval Data,"Shao, W.; Salim, F. D.; Song, A.; Bouguettaya, A.",unknown,2016
+,84,Leveraging Big Data analytics - case of Kenyan telecoms,"Moturi, Christopher A.; Karuga, Esther W.; Orwa, Daniel O.",Inderscience,2021
+,85,Intelligent big data analysis: a review,"Tsai, Chun-Wei; Yang, Ya-Lan; Chiang, Ming-Chao; Yang, Chu-Sing",Inderscience,2015
+,86,Scalable big data modelling,"Patel, Jayesh",Inderscience,2021
+,87,Improved big data stock index prediction using deep learning with CNN and GRU,"Eapen, Jithin; Verma, Abhishek; Bein, Doina",Inderscience,2021
+,88,Analyzing Bangkok city taxi ride: reforming fares for profit sustainability using big data driven model,"Phiboonbanakit, Thananut",Springer Nature,2021
+,89,Impact of rail transit station proximity to commercial property prices: utilizing big data in urban real estate,"Berawi, Mohammed Ali",Springer Nature,2020
+,90,Sleep stage classification using extreme learning machine and particle swarm optimization for healthcare big data,"Surantha, Nico",Springer Nature,2021
+,91,Correction to: Cooperative co‑evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,92,Predictors of outpatients' no-show: big data analytics using apache spark,"Daghistani, Tahani",Springer Nature,2020
+,93,Cooperative co-evolution for feature selection in Big Data with random feature grouping,"Rashid, A. N. M. Bazlur",Springer Nature,2020
+,94,A survey and analysis of intrusion detection models based on CSE-CIC-IDS2018 Big Data,"Leevy, Joffrey L.",Springer Nature,2020
+,95,CoPart: a context-based partitioning technique for big data,"Migliorini, Sara",Springer Nature,2021
+,96,Guest Editorial: Big Data Analytics and the Web,"Sheng, Q. Z.; Vasilakos, A. V.; Yu, Q.; Yao, L.",unknown,2015
+,97,Anomaly detection optimization using big data and deep learning to reduce false-positive,"Al Jallad, Khloud",Springer Nature,2020
+,98,Application of big data analytics and organizational performance: the mediating role of knowledge management practices,"Shabbir, Muhammad Qasim",Springer Nature,2020
+,99,Predictive analytics using big data for increased customer loyalty: Syriatel Telecom Company case study,"Wassouf, Wissam Nazeer",Springer Nature,2020
+,100,Mitigating Bias in Big Data for Transportation,"Griffin, Greg P.",Springer Nature,2020
